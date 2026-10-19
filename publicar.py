@@ -45,21 +45,18 @@ footer{{color:var(--mut);font-size:12px}}
              f'Foi um prazer conversar com você no estande da SyncoHub na Feira do Empreendedor. Como combinamos, aqui está o vídeo de demonstração da {e}.')
     fim = ('Se quiser algum ajuste, é só responder este e-mail.' if completo else
            'Se quiser a versão completa, com fotos reais do seu negócio, narração e entrega no mesmo dia, é só responder este e-mail.')
-    # Visual caprichado, mas mantendo o que evita SPAM: bastante texto, uma imagem só
-    # (do próprio domínio), todos os links para o mesmo endereço, sem emoji no assunto.
-    capa = f'{BASE}/videos/{pid}_capa.jpg'
+    # Sem imagens: o conector do Gmail remove <img> e reescreve links (google.com/url).
+    # Visual só com cores e texto; um único link; sem emoji no assunto (anti-spam).
     email = f"""<table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#F7F0F4" style="background-color:#F7F0F4;padding:24px 0;font-family:Arial,Helvetica,sans-serif">
 <tr><td align="center">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="max-width:520px;background-color:#ffffff;border-radius:16px;overflow:hidden">
 <tr><td bgcolor="#990066" style="background-color:#990066;padding:20px 28px"><table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
-<td><img src="{BASE}/marca/syncohub-branco.png" alt="SyncoHub" width="150" style="display:block;color:#ffffff;font-size:20px;font-weight:bold;width:150px;height:auto;border:0"></td>
+<td style="color:#ffffff;font-size:24px;line-height:1;letter-spacing:.3px">Synco<b>Hub</b></td>
 <td align="right" style="color:#FFD6EC;font-size:14px;font-weight:bold;letter-spacing:1px;white-space:nowrap">SYNCO MOTION</td></tr></table></td></tr>
 <tr><td style="padding:28px 28px 8px;color:#222;font-size:15px;line-height:1.6">
 <p style="margin:0 0 12px;font-size:18px;font-weight:bold;color:#990066">{saud}</p>
 <p style="margin:0 0 20px">{intro}</p></td></tr>
-<tr><td align="center" style="padding:0 28px">
-<a href="{link}" style="text-decoration:none"><img src="{capa}" alt="▶ Toque para assistir ao vídeo" width="220" style="display:block;color:#990066;font-size:15px;font-weight:bold;width:220px;max-width:70%;border-radius:14px;border:0"></a></td></tr>
-<tr><td align="center" style="padding:22px 28px 6px">
+<tr><td align="center" style="padding:6px 28px 6px">
 <table role="presentation" cellpadding="0" cellspacing="0"><tr><td bgcolor="#990066" style="background-color:#990066;border-radius:999px">
 <a href="{link}" style="display:inline-block;color:#ffffff;text-decoration:none;font-weight:bold;font-size:15px;padding:13px 28px;border:1px solid #990066;border-radius:999px">Assistir e baixar o vídeo</a></td></tr></table></td></tr>
 <tr><td style="padding:18px 28px 26px;color:#444;font-size:14px;line-height:1.6">
