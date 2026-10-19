@@ -51,7 +51,9 @@ footer{{color:var(--mut);font-size:12px}}
     email = f"""<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#F7F0F4;padding:24px 0;font-family:Arial,Helvetica,sans-serif">
 <tr><td align="center">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:520px;background:#ffffff;border-radius:16px;overflow:hidden">
-<tr><td style="background:#990066;padding:20px 28px"><img src="{BASE}/marca/syncohub-branco.png" alt="SyncoHub" width="170" style="display:block;width:170px;height:auto;border:0"></td></tr>
+<tr><td style="background:#990066;padding:20px 28px"><table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
+<td><img src="{BASE}/marca/syncohub-branco.png" alt="SyncoHub" width="150" style="display:block;width:150px;height:auto;border:0"></td>
+<td align="right" style="color:#FFD6EC;font-size:14px;font-weight:bold;letter-spacing:1px;white-space:nowrap">SYNCO MOTION</td></tr></table></td></tr>
 <tr><td style="padding:28px 28px 8px;color:#222;font-size:15px;line-height:1.6">
 <p style="margin:0 0 12px;font-size:18px;font-weight:bold;color:#990066">{saud}</p>
 <p style="margin:0 0 20px">{intro}</p></td></tr>
@@ -61,11 +63,12 @@ footer{{color:var(--mut);font-size:12px}}
 <a href="{link}" style="display:inline-block;background:#990066;color:#ffffff;text-decoration:none;font-weight:bold;font-size:15px;padding:13px 28px;border-radius:999px">Assistir e baixar o vídeo</a></td></tr>
 <tr><td style="padding:18px 28px 26px;color:#444;font-size:14px;line-height:1.6">
 <p style="margin:0 0 18px">{fim}</p>
+<p style="margin:0 0 18px;font-size:13px;color:#777">Vídeo criado com o <b style="color:#990066">Synco Motion</b>, a ferramenta de vídeos animados da SyncoHub.</p>
 <p style="margin:0;color:#222">Abraço,<br><b>Raí Neves</b><br>SyncoHub · contato@syncohub.com.br</p></td></tr>
 </table>
 <p style="margin:14px 0 0;font-size:11px;color:#9A8090">Você recebeu este e-mail porque pediu um vídeo à SyncoHub.</p>
 </td></tr></table>"""
-    texto = f"{saud}\n\n{intro}\n\nAssistir e baixar o vídeo: {link}\n\n{fim}\n\nAbraço,\nRaí Neves\nSyncoHub\n"
+    texto = f"{saud}\n\n{intro}\n\nAssistir e baixar o vídeo: {link}\n\n{fim}\n\nVídeo criado com o Synco Motion, a ferramenta de vídeos animados da SyncoHub.\n\nAbraço,\nRaí Neves\nSyncoHub\n"
     open(os.path.join(AQUI, f'email_{pid}.html'), 'w', encoding='utf-8').write(email)
     open(os.path.join(AQUI, f'email_{pid}.txt'), 'w', encoding='utf-8').write(texto)
     print('pagina:', f'{BASE}/v/{pid}.html'); print('email:', os.path.join(AQUI, f'email_{pid}.html'))
