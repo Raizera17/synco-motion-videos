@@ -49,7 +49,10 @@ Se faltar tempo ou o vídeo personalizado quebrar, use o motor de modelos: escre
   - **uma única geração** (`generations_count: 1`) — nunca repita a chamada para "tentar de novo";
   - texto escrito para ser falado: frases curtas, números por extenso quando soar melhor, ~2,5 palavras por segundo para caber na duração;
   - voz: `voz.id` do pedido; voz clonada: procure pelo nome com `creative_list_voices` (search = `voz_clonada_nome`).
-  - Este ambiente não alcança os servidores do ElevenLabs para baixar/enviar áudio — por isso a etapa de baixar o áudio é feita pelo Raí no card (abaixo).
+  - **Baixar o áudio gerado (automático, pelo notebook do Raí)**: o container não alcança `storage.googleapis.com`, mas o navegador do app Claude no notebook sim. Pegue o `content_url` em `creative_get_flow_run_status` (conector **ElevenLabs_Completo**), abra-o com `Claude_Browser__preview_start` e rode em `Claude_Browser__javascript_tool`:
+    `const b = await fetch(location.href).then(r => r.blob()); const a = document.createElement('a'); a.href = URL.createObjectURL(b); a.download = 'narracao_<id>.mp3'; document.body.appendChild(a); a.click(); b.size`
+    O arquivo cai em `C:\Users\rai20\Downloads\narracao_<id>.mp3`; traga para cá com `device_stage_files` (aparece em `/mnt/user-data/uploads/Downloads/`). Use-o como `--narracao`. Alinhe as cenas às pausas da fala (`ffmpeg -af silencedetect=n=-35dB:d=0.25`).
+  - Só se o notebook estiver offline (ferramentas do computador falhando): caia no passo manual (`aguardando_audio`) descrito abaixo.
 - **Narração**:
   - `Sem narração`: igual à demo, só que na duração pedida.
   - `Minha voz` + `Minha gravação vira a narração` com `minha_voz.arquivo`: o asset é texto base64 (`codificacao: base64`) — `Artifact read` do id, decodifique para o áudio original (`mime`), limpe com ffmpeg (`highpass=f=80,afftdn=nf=-25,loudnorm=I=-16:TP=-1.5`), meça com ffprobe, use `--dur` = duração + 1,5 s e `--narracao <arquivo>`. Sincronize os textos na tela com a fala.
@@ -57,5 +60,5 @@ Se faltar tempo ou o vídeo personalizado quebrar, use o motor de modelos: escre
     - sem `voz_clonada_nome` (1ª passada): escreva o texto da narração, `update` `{"status":"aguardando_voz","narracao_texto":"<texto>","atualizado_em":<ms>}` e encerre (o Raí baixa a gravação, cria o clone no ElevenLabs e informa o nome no card).
     - com `voz_clonada_nome` e sem `narracao_arquivo` (2ª passada): ache a voz pelo nome, gere a narração com o texto salvo (`eleven_v4`, 1 geração) e siga como "Voz da IA" abaixo (aguardando_audio).
   - `Voz da IA` com `narracao_arquivo` já presente (passada final): é o áudio que o Raí enviou (base64) → `--narracao` e finalize normalmente.
-  - `Voz da IA` sem `narracao_arquivo`: escreva o texto (ou use `narracao_texto` se já existir), gere com o ElevenLabs (regras acima), e `update` `{"status":"aguardando_audio","narracao_texto":"<texto>","narracao_link":"<url do flow>","atualizado_em":<ms>}` e **encerre** (o Raí baixa o áudio e envia pelo card; isso dispara a passada final).
+  - `Voz da IA` sem `narracao_arquivo`: escreva o texto (ou use `narracao_texto` se já existir), gere com o ElevenLabs (regras acima), baixe pelo notebook e finalize. **Só se não der para baixar**: `update` `{"status":"aguardando_audio","narracao_texto":"<texto>","narracao_link":"<url do flow>","atualizado_em":<ms>}` e **encerre** (o Raí baixa o áudio e envia pelo card; isso dispara a passada final).
 - **Página e e-mail**: `python3 publicar.py <id> "<nome>" "<empresa>" completo` (texto de cliente pagante, sem oferta de upgrade).
