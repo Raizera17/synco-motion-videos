@@ -44,6 +44,7 @@ def main():
     ap.add_argument('--js', required=True); ap.add_argument('--dados', default=None)
     ap.add_argument('--fmt', default='9:16'); ap.add_argument('--dur', type=float, default=15.0)
     ap.add_argument('--musica', default='vibrante'); ap.add_argument('--musica-arquivo', default=None)
+    ap.add_argument('--narracao', default=None, help='arquivo de áudio da narração (mixado por cima da música)'); ap.add_argument('--narracao-inicio', type=float, default=0.6)
     ap.add_argument('--saida', required=True); ap.add_argument('--fps', type=int, default=30)
     ap.add_argument('--previa', default=None, help='lista de tempos "0,3,7" para só salvar quadros PNG (conferência)')
     a = ap.parse_args()
@@ -87,6 +88,14 @@ window.q=t=>{{const c=document.getElementById('c'),x=c.getContext('2d');if(x.res
         if erros: print('ERROS NA PÁGINA:', erros)
     musica = a.musica_arquivo or os.path.join(RAIZ, 'music', MUSICAS.get(a.musica.lower(), 'vibrante') + '.wav')
     fade = max(0.5, a.dur - 1.8)
+    if a.narracao:
+        ms = int(a.narracao_inicio * 1000)
+        filtro = (f'[1:a]loudnorm=I=-30:TP=-8,afade=t=out:st={fade}:d=1.8[m];'
+                  f'[3:a]loudnorm=I=-16:TP=-1.5,adelay={ms}|{ms}[n];[m][n]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]')
+        cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-i', video, '-stream_loop', '-1', '-i', musica, '-i', capa, '-i', a.narracao,
+               '-filter_complex', filtro, '-map', '0:v', '-map', '[a]', '-map', '2', '-c:v:0', 'copy', '-c:a', 'aac', '-b:a', '192k',
+               '-c:v:1', 'mjpeg', '-disposition:v:1', 'attached_pic', '-t', str(a.dur), '-movflags', '+faststart', a.saida]
+        subprocess.run(cmd, check=True); print('OK', a.saida, os.path.getsize(a.saida) // 1024, 'KB', '| capa:', capa); return
     subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', video, '-stream_loop', '-1', '-i', musica, '-i', capa,
                     '-map', '0:v', '-map', '1:a', '-map', '2', '-c:v:0', 'copy',
                     '-af', f'afade=t=out:st={fade}:d=1.8,loudnorm=I=-28:TP=-6', '-c:a', 'aac', '-b:a', '160k',

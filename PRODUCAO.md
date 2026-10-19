@@ -6,6 +6,10 @@ Se algo falhar de vez, marque o pedido como `erro` (último passo) e pare.
 Entrada (mensagem anexada ao disparo): JSON `{"colecao": "pedidos/<uid>/itens", "pedido": "<id>", "url": "<link do artefato>"}`.
 (Formato antigo `{"pedido","url"}` sem `colecao` → use `colecao` = `pedidos`.)
 
+## Dois modos (campo `modo` do pedido)
+- `demo` (ou ausente): demonstração grátis — regras fixas abaixo.
+- `completo`: cliente pagante — **sem as limitações**: duração = `duracao` do pedido (15/30/45/60 s), narração conforme `narracao`, mais cenas e mais capricho; prazo maior é aceitável (até ~25 min). Veja a seção **Modo completo** no fim. Capa no quadro 0, música baixa e regra do texto digitado continuam valendo.
+
 ## Regras fixas da demonstração
 - **15 segundos**, **sem narração**, música de fundo baixa (o render já mixa em -28 LUFS).
 - **Quadro 0 = capa completa** (marca + mensagem principal já visíveis no t=0, só "respirando"); nada de tela vazia ou rosa no começo.
@@ -36,3 +40,13 @@ Entrada (mensagem anexada ao disparo): JSON `{"colecao": "pedidos/<uid>/itens", 
 
 ## Alternativa rápida
 Se faltar tempo ou o vídeo personalizado quebrar, use o motor de modelos: escreva um roteiro no formato de `gerar.py` (`modelo` impacto|elegante|vibrante) e rode `python3 gerar.py roteiro.json videos/<id>.mp4 --logo <png>` (~1–2 min).
+
+## Modo completo
+- **Duração**: `duracao` do pedido. Passe `--dur <segundos>` ao render.py (e escreva o vídeo para essa duração: ~1 cena a cada 3–4 s).
+- **Roteiro**: se o cliente mandou `roteiro`, siga-o; senão escreva um (gancho → problema → solução/produto → prova/destaques → chamada final).
+- **Narração**:
+  - `Sem narração`: igual à demo, só que na duração pedida.
+  - `Minha voz` com `minha_voz.arquivo`: o asset é texto base64 (`codificacao: base64`) — `Artifact read` do id, decodifique para o arquivo de áudio original (`mime`), meça a duração com ffprobe, use `--dur` = duração + 1,5 s e `--narracao <arquivo>`. Sincronize os textos na tela com a fala (ordem do roteiro).
+  - `Voz da IA` com `narracao_arquivo` já presente (segunda passada): é o áudio que o Raí enviou (mesmo formato base64) → use como `--narracao` e finalize normalmente.
+  - `Voz da IA` sem `narracao_arquivo` (primeira passada): escreva o texto da narração (cabendo na duração, ~2,5 palavras por segundo), gere **uma única vez** com o conector ElevenLabs (`creative_generate_speech`, voz `voz.id`, `generations_count` 1 — nunca gere mais de uma versão, custa créditos), e então `update` no pedido: `{"status":"aguardando_audio","narracao_texto":"<texto>","narracao_link":"<url do flow do ElevenLabs>","atualizado_em":<epoch ms>}` e **encerre** (o Raí baixa o áudio e envia pelo card; isso dispara a segunda passada).
+- **Página e e-mail**: `python3 publicar.py <id> "<nome>" "<empresa>" completo` (texto de cliente pagante, sem oferta de upgrade).

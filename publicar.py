@@ -9,6 +9,7 @@ RAW = 'https://raw.githubusercontent.com/Raizera17/synco-motion-videos/main'
 
 def main():
     pid, nome, empresa = sys.argv[1], sys.argv[2], sys.argv[3]
+    completo = len(sys.argv) > 4 and sys.argv[4] == 'completo'
     n, e = html.escape(nome.split()[0] if nome.strip() else ''), html.escape(empresa)
     os.makedirs(os.path.join(AQUI, 'v'), exist_ok=True)
     pagina = f"""<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -31,9 +32,7 @@ footer{{color:var(--mut);font-size:12px}}
 <h1>{('Oi, ' + n + '! ') if n else ''}Seu vídeo da {e} está pronto</h1>
 <video src="../videos/{pid}.mp4" poster="../videos/{pid}_capa.jpg" controls playsinline></video>
 <a class="btn" href="../videos/{pid}.mp4" download="{pid}.mp4">⬇ Baixar vídeo</a>
-<div class="box"><b>Gostou? Esse foi só o começo.</b>
-<p>Vídeos completos com fotos reais, narração, música e legendas, entregues no mesmo dia. A partir de R$ 50 (15s).</p>
-<p>Responda o e-mail que você recebeu ou fale com a gente no estande da SyncoHub.</p></div>
+{'<div class="box"><b>Obrigado pela confiança!</b><p>Precisa de algum ajuste? É só responder o e-mail.</p></div>' if completo else '<div class="box"><b>Gostou? Esse foi só o começo.</b><p>Vídeos completos com fotos reais, narração, música e legendas, entregues no mesmo dia. A partir de R$ 50 (15s).</p><p>Responda o e-mail que você recebeu ou fale com a gente no estande da SyncoHub.</p></div>'}
 <footer>Feito com Synco Motion · SyncoHub</footer>
 </main></body></html>"""
     open(os.path.join(AQUI, 'v', f'{pid}.html'), 'w', encoding='utf-8').write(pagina)
@@ -44,12 +43,11 @@ footer{{color:var(--mut);font-size:12px}}
 <div style="font-size:24px;font-weight:bold;margin-top:6px">Seu vídeo está pronto 🎬</div></div>
 <div style="background:#ffffff;border:1px solid #eee;border-top:0;padding:24px;border-radius:0 0 16px 16px">
 <p style="font-size:16px;margin:0 0 14px">{('Oi, ' + n + '!') if n else 'Olá!'}</p>
-<p style="font-size:15px;line-height:1.6;margin:0 0 18px">Foi um prazer te receber no estande da SyncoHub na Feira do Empreendedor. Aqui está o vídeo de demonstração da <b>{e}</b>, criado com o Synco Motion:</p>
+<p style="font-size:15px;line-height:1.6;margin:0 0 18px">{('Seu vídeo da <b>' + e + '</b> ficou pronto. Obrigado por escolher a SyncoHub!') if completo else ('Foi um prazer te receber no estande da SyncoHub na Feira do Empreendedor. Aqui está o vídeo de demonstração da <b>' + e + '</b>, criado com o Synco Motion:')}</p>
 <a href="{BASE}/v/{pid}.html" style="display:block;text-decoration:none"><img src="{RAW}/videos/{pid}_capa.jpg" alt="Capa do vídeo" width="240" style="display:block;margin:0 auto 18px;border-radius:14px;max-width:60%"></a>
 <p style="text-align:center;margin:0 0 10px"><a href="{BASE}/v/{pid}.html" style="background:#E0337F;color:#fff;text-decoration:none;font-weight:bold;padding:14px 26px;border-radius:999px;display:inline-block">▶ Assistir e baixar</a></p>
 <p style="text-align:center;font-size:12px;color:#888;margin:0 0 22px">Se o botão não abrir: <a href="{RAW}/videos/{pid}.mp4" style="color:#7B5CFF">baixar o arquivo direto</a></p>
-<p style="font-size:15px;line-height:1.6;margin:0 0 8px"><b>Quer o vídeo completo?</b> Com fotos e vídeos reais do seu negócio, narração, música e legendas, entregue no mesmo dia, a partir de R$ 50.</p>
-<p style="font-size:15px;line-height:1.6;margin:0">É só responder este e-mail.</p>
+{'<p style="font-size:15px;line-height:1.6;margin:0">Precisa de algum ajuste? É só responder este e-mail.</p>' if completo else '<p style="font-size:15px;line-height:1.6;margin:0 0 8px"><b>Quer o vídeo completo?</b> Com fotos e vídeos reais do seu negócio, narração, música e legendas, entregue no mesmo dia, a partir de R$ 50.</p><p style="font-size:15px;line-height:1.6;margin:0">É só responder este e-mail.</p>'}
 <p style="font-size:14px;margin:22px 0 0;color:#555">Raí Neves · SyncoHub</p></div></div>"""
     open(os.path.join(AQUI, f'email_{pid}.html'), 'w', encoding='utf-8').write(email)
     print('pagina:', f'{BASE}/v/{pid}.html'); print('email:', os.path.join(AQUI, f'email_{pid}.html'))
