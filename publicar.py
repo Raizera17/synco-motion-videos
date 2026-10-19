@@ -45,12 +45,26 @@ footer{{color:var(--mut);font-size:12px}}
              f'Foi um prazer conversar com você no estande da SyncoHub na Feira do Empreendedor. Como combinamos, aqui está o vídeo de demonstração da {e}.')
     fim = ('Se quiser algum ajuste, é só responder este e-mail.' if completo else
            'Se quiser a versão completa, com fotos reais do seu negócio, narração e entrega no mesmo dia, é só responder este e-mail.')
-    email = f"""<div style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#222;max-width:560px">
-<p>{saud}</p>
-<p>{intro}</p>
-<p><a href="{link}" style="color:#7B2CBF;font-weight:bold">Assistir e baixar o vídeo</a></p>
-<p>{fim}</p>
-<p>Abraço,<br>Raí Neves<br>SyncoHub</p></div>"""
+    # Visual caprichado, mas mantendo o que evita SPAM: bastante texto, uma imagem só
+    # (do próprio domínio), todos os links para o mesmo endereço, sem emoji no assunto.
+    capa = f'{BASE}/videos/{pid}_capa.jpg'
+    email = f"""<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#F4F1FA;padding:24px 0;font-family:Arial,Helvetica,sans-serif">
+<tr><td align="center">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:520px;background:#ffffff;border-radius:16px;overflow:hidden">
+<tr><td style="background:#1A1033;padding:18px 28px;color:#ffffff;font-size:16px;font-weight:bold;letter-spacing:.5px">SyncoHub <span style="color:#B79CFF;font-weight:normal">· Synco Motion</span></td></tr>
+<tr><td style="padding:28px 28px 8px;color:#222;font-size:15px;line-height:1.6">
+<p style="margin:0 0 12px;font-size:18px;font-weight:bold;color:#1A1033">{saud}</p>
+<p style="margin:0 0 20px">{intro}</p></td></tr>
+<tr><td align="center" style="padding:0 28px">
+<a href="{link}" style="text-decoration:none"><img src="{capa}" alt="Capa do vídeo — toque para assistir" width="220" style="display:block;width:220px;max-width:70%;border-radius:14px;border:0"></a></td></tr>
+<tr><td align="center" style="padding:22px 28px 6px">
+<a href="{link}" style="display:inline-block;background:#6D28D9;color:#ffffff;text-decoration:none;font-weight:bold;font-size:15px;padding:13px 28px;border-radius:999px">Assistir e baixar o vídeo</a></td></tr>
+<tr><td style="padding:18px 28px 26px;color:#444;font-size:14px;line-height:1.6">
+<p style="margin:0 0 18px">{fim}</p>
+<p style="margin:0;color:#222">Abraço,<br><b>Raí Neves</b><br>SyncoHub · contato@syncohub.com.br</p></td></tr>
+</table>
+<p style="margin:14px 0 0;font-size:11px;color:#8A80A0">Você recebeu este e-mail porque pediu um vídeo à SyncoHub.</p>
+</td></tr></table>"""
     texto = f"{saud}\n\n{intro}\n\nAssistir e baixar o vídeo: {link}\n\n{fim}\n\nAbraço,\nRaí Neves\nSyncoHub\n"
     open(os.path.join(AQUI, f'email_{pid}.html'), 'w', encoding='utf-8').write(email)
     open(os.path.join(AQUI, f'email_{pid}.txt'), 'w', encoding='utf-8').write(texto)
