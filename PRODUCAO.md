@@ -65,3 +65,4 @@ Se faltar tempo ou o vídeo personalizado quebrar, use o motor de modelos: escre
 
 ## Cuidados de código
 - `seeded(n)` com sementes seguidas (i, i+1…) dá o 1º número quase igual → tudo nasce no mesmo lugar (ex.: estrelas grudadas na borda esquerda). Use `seeded(i * 7919 + k)` e descarte 2 valores (`r(); r();`) antes de usar.
+- E-mail sai como **contato@syncohub.com.br** (endereço padrão do "Enviar como" no Gmail do Raí, via SMTP Hostinger). Não passe outro remetente.
