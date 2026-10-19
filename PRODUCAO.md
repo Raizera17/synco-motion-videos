@@ -33,7 +33,7 @@ Entrada (mensagem anexada ao disparo): JSON `{"colecao": "pedidos/<uid>/itens", 
 5. **Página e e-mail** — `python3 publicar.py <id> "<cliente.nome>" "<cliente.empresa>"`.
 6. **Publicar** — `git add videos/<id>.mp4 videos/<id>_capa.jpg v/<id>.html && git commit -m "video <id>" && git push` (se recusar: `git pull --rebase` e push de novo). Não suba o .js do vídeo nem o e-mail.
 7. **Vídeo dentro do Synco Motion** — `Artifact` publish com `url` = url, `file_path` = `videos/<id>.mp4`, `asset: true` → guarde o `id` retornado.
-8. **E-mail** — `Gmail send_message`: `to` = [cliente.email], `subject` = `Seu vídeo Synco Motion está pronto 🎬 — <empresa>`, `htmlBody` = conteúdo de `email_<id>.html`, `body` = texto curto com o link da página.
+8. **E-mail** — `Gmail send_message`: `to` = [cliente.email], `subject` = `Seu vídeo da <empresa>` (sem emoji, sem "grátis"/"pronto!!"), `htmlBody` = conteúdo de `email_<id>.html`, `body` = conteúdo de `email_<id>.txt` (os dois iguais em texto, um único link — isso reduz SPAM).
 9. **Concluir** — `ArtifactData` `get` de novo e `update`:
    `{"status":"pronto","video":"<id do asset>","pagina":"https://raizera17.github.io/synco-motion-videos/v/<id>.html","video_url":"https://raw.githubusercontent.com/Raizera17/synco-motion-videos/main/videos/<id>.mp4","email_enviado":true|false,"atualizado_em":<epoch ms>}`.
    Em falha: `{"status":"erro","erro":"<motivo curto, em português>","atualizado_em":<epoch ms>}`.
@@ -62,3 +62,6 @@ Se faltar tempo ou o vídeo personalizado quebrar, use o motor de modelos: escre
   - `Voz da IA` com `narracao_arquivo` já presente (passada final): é o áudio que o Raí enviou (base64) → `--narracao` e finalize normalmente.
   - `Voz da IA` sem `narracao_arquivo`: escreva o texto (ou use `narracao_texto` se já existir), gere com o ElevenLabs (regras acima), baixe pelo notebook e finalize. **Só se não der para baixar**: `update` `{"status":"aguardando_audio","narracao_texto":"<texto>","narracao_link":"<url do flow>","atualizado_em":<ms>}` e **encerre** (o Raí baixa o áudio e envia pelo card; isso dispara a passada final).
 - **Página e e-mail**: `python3 publicar.py <id> "<nome>" "<empresa>" completo` (texto de cliente pagante, sem oferta de upgrade).
+
+## Cuidados de código
+- `seeded(n)` com sementes seguidas (i, i+1…) dá o 1º número quase igual → tudo nasce no mesmo lugar (ex.: estrelas grudadas na borda esquerda). Use `seeded(i * 7919 + k)` e descarte 2 valores (`r(); r();`) antes de usar.

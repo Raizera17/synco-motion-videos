@@ -37,19 +37,23 @@ footer{{color:var(--mut);font-size:12px}}
 </main></body></html>"""
     open(os.path.join(AQUI, 'v', f'{pid}.html'), 'w', encoding='utf-8').write(pagina)
 
-    email = f"""<div style="font-family:Arial,Helvetica,sans-serif;max-width:560px;margin:0 auto;color:#1d1830">
-<div style="background:linear-gradient(90deg,#E0337F,#7B5CFF);padding:22px 24px;border-radius:16px 16px 0 0;color:#fff">
-<div style="font-size:12px;letter-spacing:2px;text-transform:uppercase;opacity:.85">Synco Motion · SyncoHub</div>
-<div style="font-size:24px;font-weight:bold;margin-top:6px">Seu vídeo está pronto 🎬</div></div>
-<div style="background:#ffffff;border:1px solid #eee;border-top:0;padding:24px;border-radius:0 0 16px 16px">
-<p style="font-size:16px;margin:0 0 14px">{('Oi, ' + n + '!') if n else 'Olá!'}</p>
-<p style="font-size:15px;line-height:1.6;margin:0 0 18px">{('Seu vídeo da <b>' + e + '</b> ficou pronto. Obrigado por escolher a SyncoHub!') if completo else ('Foi um prazer te receber no estande da SyncoHub na Feira do Empreendedor. Aqui está o vídeo de demonstração da <b>' + e + '</b>, criado com o Synco Motion:')}</p>
-<a href="{BASE}/v/{pid}.html" style="display:block;text-decoration:none"><img src="{RAW}/videos/{pid}_capa.jpg" alt="Capa do vídeo" width="240" style="display:block;margin:0 auto 18px;border-radius:14px;max-width:60%"></a>
-<p style="text-align:center;margin:0 0 10px"><a href="{BASE}/v/{pid}.html" style="background:#E0337F;color:#fff;text-decoration:none;font-weight:bold;padding:14px 26px;border-radius:999px;display:inline-block">▶ Assistir e baixar</a></p>
-<p style="text-align:center;font-size:12px;color:#888;margin:0 0 22px">Se o botão não abrir: <a href="{RAW}/videos/{pid}.mp4" style="color:#7B5CFF">baixar o arquivo direto</a></p>
-{'<p style="font-size:15px;line-height:1.6;margin:0">Precisa de algum ajuste? É só responder este e-mail.</p>' if completo else '<p style="font-size:15px;line-height:1.6;margin:0 0 8px"><b>Quer o vídeo completo?</b> Com fotos e vídeos reais do seu negócio, narração, música e legendas, entregue no mesmo dia, a partir de R$ 50.</p><p style="font-size:15px;line-height:1.6;margin:0">É só responder este e-mail.</p>'}
-<p style="font-size:14px;margin:22px 0 0;color:#555">Raí Neves · SyncoHub</p></div></div>"""
+    # E-mail enxuto de propósito (anti-spam): parece mensagem pessoal, um único link,
+    # sem imagem externa, sem emoji/“grátis”/caixa alta, com versão em texto puro igual.
+    link = f'{BASE}/v/{pid}.html'
+    saud = ('Oi, ' + n + '!') if n else 'Olá!'
+    intro = (f'Seu vídeo da {e} ficou pronto. Obrigado por escolher a SyncoHub.' if completo else
+             f'Foi um prazer conversar com você no estande da SyncoHub na Feira do Empreendedor. Como combinamos, aqui está o vídeo de demonstração da {e}.')
+    fim = ('Se quiser algum ajuste, é só responder este e-mail.' if completo else
+           'Se quiser a versão completa, com fotos reais do seu negócio, narração e entrega no mesmo dia, é só responder este e-mail.')
+    email = f"""<div style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#222;max-width:560px">
+<p>{saud}</p>
+<p>{intro}</p>
+<p><a href="{link}" style="color:#7B2CBF;font-weight:bold">Assistir e baixar o vídeo</a></p>
+<p>{fim}</p>
+<p>Abraço,<br>Raí Neves<br>SyncoHub</p></div>"""
+    texto = f"{saud}\n\n{intro}\n\nAssistir e baixar o vídeo: {link}\n\n{fim}\n\nAbraço,\nRaí Neves\nSyncoHub\n"
     open(os.path.join(AQUI, f'email_{pid}.html'), 'w', encoding='utf-8').write(email)
+    open(os.path.join(AQUI, f'email_{pid}.txt'), 'w', encoding='utf-8').write(texto)
     print('pagina:', f'{BASE}/v/{pid}.html'); print('email:', os.path.join(AQUI, f'email_{pid}.html'))
 
 if __name__ == '__main__':
