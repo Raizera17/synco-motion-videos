@@ -35,7 +35,7 @@ Entrada (mensagem anexada ao disparo): JSON `{"colecao": "pedidos/<uid>/itens", 
 7. **Vídeo dentro do Synco Motion** — `Artifact` publish com `url` = url, `file_path` = `videos/<id>.mp4`, `asset: true` → guarde o `id` retornado.
 8. **E-mail** — `Gmail send_message`: `to` = [cliente.email], `subject` = `Seu vídeo da <empresa>` (sem emoji, sem "grátis"/"pronto!!"), `htmlBody` = conteúdo de `email_<id>.html`, `body` = conteúdo de `email_<id>.txt` (os dois iguais em texto, um único link — isso reduz SPAM).
 9. **Concluir** — `ArtifactData` `get` de novo e `update`:
-   `{"status":"pronto","video":"<id do asset>","pagina":"https://raizera17.github.io/synco-motion-videos/v/<id>.html","video_url":"https://raw.githubusercontent.com/Raizera17/synco-motion-videos/main/videos/<id>.mp4","email_enviado":true|false,"atualizado_em":<epoch ms>}`.
+   `{"status":"pronto","video":"<id do asset>","pagina":"https://videos.syncohub.com.br/v/<id>.html","video_url":"https://raw.githubusercontent.com/Raizera17/synco-motion-videos/main/videos/<id>.mp4","email_enviado":true|false,"atualizado_em":<epoch ms>}`.
    Em falha: `{"status":"erro","erro":"<motivo curto, em português>","atualizado_em":<epoch ms>}`.
 
 ## Alternativa rápida

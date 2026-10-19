@@ -4,7 +4,7 @@ Uso: python3 publicar.py <id> "<Nome do cliente>" "<Empresa>"
 """
 import sys, os, html
 AQUI = os.path.dirname(os.path.abspath(__file__))
-BASE = 'https://raizera17.github.io/synco-motion-videos'
+BASE = 'https://videos.syncohub.com.br'
 RAW = 'https://raw.githubusercontent.com/Raizera17/synco-motion-videos/main'
 
 def main():
