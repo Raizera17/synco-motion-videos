@@ -1,0 +1,718 @@
+# Índice — 703 prompts de vídeo (referência de direção)
+
+Fonte: `opus-videos/` (MIT, ver ORIGEM.md). ★ = prompt completo. Busca: `python3 referencias/buscar.py <palavras>`.
+
+## Motion graphics (369)
+
+- `iamtanzil-120030` · canvas,css ★ · # OBLT E-bike Header A full-viewport, dark, cinematic e-bike product header for the brand **OBLT**, built in React (client component) with p
+- `anabology-491441` · canvas,ai-image ★ · I've included an MP4 file and an original link to a video that is called "Claude Pop." It's a pop song that is about increasing rate of prog
+- `brainextends-606193` · shader,svg ★ · Create a complete, polished Spotify-themed motion graphics video from the following brief. This prompt is self-contained: no reference video
+- `heyiamnick-119558` · canvas ★ · <direction> Build a 30-second looping motion design showreel that introduces CLAUDE, a motion designer. Concept, in one line: one pencil lin
+- `thegrootdev-966114` · svg ★ · <inputs> Ask me for: my featured Pokémon or starter trio, 8–12 Pokémon-themed UI states, and a royalty-free song around 120 BPM with a playf
+- `anjmaxx-459455` · canvas,pixel ★ · I want you to independently do an end-to-end complete pass on making 20 second story led music video with two main protagonists a girl and a
+- `howdevelop-733090` · canvas ★ · Create and render a 15-second motion graphics video introducing TanStack AI. Make it feel like a premium developer-tool launch film produced
+- `twoclipping-551116` ·  ★ · <inputs> Ask me for: my product's name (one lowercase word), a 4-word tagline, the 3-step story of what it does, a launch date and domain, a
+- `twoclipping-747965` ·  ★ · <inputs> Ask me for: my product's name (nightshift) (one lowercase word, it becomes a black wordmark with a period), the one job a user hand
+- `gdgtify-929495` · canvas ★ · Create a 20.00-second kinetic spoken-word film titled “BUILD THE FLOOR.” Treat this as an original miniature speech staged entirely through 
+- `notdwd-998633` ·  ★ · <inputs> Ask me for: a brand name, its logo (SVG or high-res PNG), one line of what it becomes in 5 years (not today's features), one coined
+- `techhalla-498547` · canvas ★ · You are a world-class motion designer doing a 20.00s kinetic identity bumper for TechHalla — an AI creator known for stealable workflows, no
+- `gdgtify-393073` ·  ★ · Create a kinetic mathematical proof titled “THERE IS NO LAST PRIME.” Stage Euclid’s argument as a beautiful mechanical inspection system. Ty
+- `thewevr-681887` ·  ★ · Make a complete music video for the song in this folder, with all visuals drawn and animated in JavaScript. Use the entire song. SETUP Inspe
+- `twoclipping-402193` · svg ★ · <inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette
+- `demonugc-525162` · svg ★ · <inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette
+- `dzhohola-249003` · css ★ · <inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette
+- `hicallmechai-878304` · svg,gsap ★ · <inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette
+- `nezbuilds-294391` · svg ★ · <inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette
+- `sanjeevn72-457691` · svg ★ · <inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette
+- `0xnicc0-516612` ·  ★ · <inputs> Ask me for: a one-word product name for the wordmark, one accent color, and a royalty-free track around 120 BPM (e.g. Mixkit, free 
+- `annacher-433425` · svg ★ · Analyze http://sprites.ai and build a product promo from our own UI, not generic components. <direction> Dribbble-level UI motion. One shape
+- `majidmanzarpour-927543` · canvas ★ · Create a single self-contained HTML file that renders an animated pixel art wizard casting a spell, using vanilla JavaScript and Canvas 2D. 
+- `doubleunplussed-181894` · canvas ★ · I'd like you to make a music video in a similar style to this one: https://github.com/JohnHeibel/PDoomVideo To this song: https://youtu.be/c
+- `flxrnc-251921` ·  ★ · <inputs> Give me: * canvas color * shape color * accent color * shape radius * fonts * the states the shape should morph through Use hex cod
+- `jake11moran-414633` · canvas,svg,gsap,ai-image ★ · Using HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper a
+- `okapi-fukugyo-166351` ·  ★ · <inputs> 次の3つを私に質問すること：図形が変身する8〜12個の画面部品（例：ボタン、読み込み中の表示、音楽プレーヤー、音量スライダー、オン/オフのスイッチ、タブ、グラフ、⌘Kで開く検索窓、一瞬出る通知）、色は完全な白黒か差し色1色か、そして120BPM（1分間に120拍
+- `0xkarmi-129839` ·  ★ · Picture a butterfly with no memory of its last wingbeat. Ask it for frame 720 and you get frame 0, pixel for pixel. 720 frames. 12 seconds. 
+- `pluvio9yte-662953` ·  ★ · 公开我的制作方案，发给Opus5.5就能用 1. 选素材 三个标准，直接决定成败： - 主体完整：人物或物体全身入画。细节会在加工中丢失，观众靠轮廓认东西，特写会变成一团。 - 背景干净：纯色、雪地、天空都行，主体和背景容易分开。 - 有明确的动作瞬间：打击、起跳、落地、转身。这
+- `notdwd-766641` ·  ★ · Make a 12s motion video in code (1920x1080, 30fps, one HTML file drawing every frame from a single seek(t) function, rendered with Playwrigh
+- `eric-khun-667455` · canvas ★ · I want you to create a "Happy Mid-Autumn Festival" video in hand drawn canvas animation style. You must use the attached Taiwan black bear a
+- `tanabe-fragm-706979` ·  ★ · # あなたの役割 あなたは一流の映像演出家（モーションデザイナー）です。 採用担当者が15秒見ただけで「この人に仕事を頼みたい」と思う、自己紹介用の映像を作ってください。 主役はあなた自身（Claude）です。 # 作るもの - HTML・CSS・JavaScriptだけで完結す
+- `pound75423-464968` · canvas,css ★ · 添付した楽曲とキャラクター画像を使って、「サイケデリック・グリッチ系」のアニメーション MV を作ってください。 【制作方法】 HTML Canvas でアニメーションを書き、Playwright で 1 フレームずつキャプチャし、ffmpeg で音声と合成して MP4 を出力し
+- `zhu185178-255661` ·  ★ · 帮我做一条 30 秒的 2D 动画分镜预演短片《雨站》，要标杆级画质。不装 HyperFrames/Remotion，全部自己写代码（Python + ffmpeg）完成。 故事（24fps，2.39:1，4K）：雨夜高架站台。她穿米色风衣、撑透明伞，站在近侧站台；对面路灯下站着
+- `wani-shola-459278` · svg,gsap ★ · Make a showreel-style motion graphics video for my portfolio website, http:// sholajegede.com, using Remotion. It should show what I do as a
+- `superalesha-970412` ·  ★ · make an animated short that felt like Hedgehog in the Fog. I didn’t want to copy Yuri Norstein’s film, so we went with a new story. It runs 
+- `imryven-495965` ·  ★ · Rebuild my Claude Code setup around this tree: 1. Look in ~/.claude/agents and .claude/agents for subagents that already cover explorer, wor
+- `adrianduta96-992248` ·  ★ · Make a 20-second 16:9 motion graphics video that tells a little story with sound. For the first 12 seconds there is no sound at all: on a wa
+- `chrisjdimarco-808196` · canvas ★ · make a dynamic 60-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. 
+- `fornyapayzeka-135914` · threejs,shader ★ · Yapabileceğin en etkileyici patlama efektini ve onu taşıyacak özgün sahneyi üret. Ölçeği, ortamı ve görsel dili sen seç. Patlamanın başlangı
+- `daniel-mac8-306214` · svg,gsap ★ · I want to try something different here. You should act as a world-class animator and create an animation to go along with an X post that tal
+- `egawa-ai-design-092323` ·  ★ · Create a 15-second motion graphics video for barber shop recruitment. - 1920×1080 / 60fps - Build with HTML + GSAP, allowing drawing at any 
+- `fornyapayzeka-795431` · threejs,shader,particles ★ · Yapabileceğin en etkileyici havai fişek veya ışıklı parçacık gösterisini üret. Ortamı ve sanat yönünü sen seç. Tek tip küçük patlamaları çoğ
+- `annacher-152174` ·  ★ · Analyze https://t.co/gVJcJyZnZl and build a product promo from our own UI, not generic components. <direction> Dribbble-level UI motion. One
+- `deeprajo1-623150` ·  ★ · Create a dynamic 30sec launch vdo for your site url here. Make it feel like a high-end motion designer’s resume/showreel piece, bold, cinema
+- `dale-vaz-879074` · canvas ★ · create a self contained aesthetically pleasing, breathtaking animation of the Sahi Trading Terminal. it should start with a single dot on a 
+- `ho-ba-761062` · canvas ★ · Make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. 
+- `groundcontrol-230877` · canvas,audio ★ · All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, ab
+- `diamai-157697` ·  ★ · Make me a 30-second motion design video in code, 1080x1080, 60 fps. The music is [path to your track]. First measure the track with numpy. F
+- `gouthamjay8-910269` · svg,gsap ★ · I want you to create a highly professional SaaS product launch video. Go and look up [website] Pick that, and then make sure to get actual a
+- `techyoutbe-588678` · svg ★ · I want you to create a highly professional SaaS product launch video. Go and find some SaaS, preferably just one that people know, so it's e
+- `reflex-cloud-304046` · shader,webgl,canvas,css ★ · You're a world-class motion designer, and this is your 15-second résumé reel. Make it dynamic and confident: open with a striking hook in th
+- `moritzkremb-466494` · svg,gsap ★ · I want you to create a highly professional SaaS product launch video. Go and find some SaaS, preferably just one that people know, so it's e
+- `leanzubrezki-766171` · svg,gsap ★ · I want you to create a highly professional SaaS product launch video. Go and find some SaaS, preferably just one that people know, so it's e
+- `hsanat-012699` · svg,gsap ★ · I want you to create a highly professional SaaS product launch video. Go and find some SaaS, preferably just one that people know, so it's e
+- `drrickio-009558` · svg,gsap ★ · I want you to create a highly professional SaaS product launch video. Go and find some SaaS, preferably just one that people know, so it's e
+- `pbteja1998-651644` · svg,gsap,css ★ · I want you to create a highly professional SaaS product launch video. Go and find some SaaS, preferably just one that people know, so it's e
+- `thejohnnyhuy-282154` ·  ★ · Build an Apple-keynote launch film as a single HTML file, then render it to MP4. <inputs> Ask me for: a one-word brand name for the wordmark
+- `abderrahmen-g-899031` · canvas,svg,gsap,css ★ · You are a professional videographer. Create me a high-definition, creative, playful, and joyful video that you enjoy watching, that has soun
+- `aichrislee-961335` ·  ★ · Make a dynamic 15-second motion graphics video that shows off everything you can do as a motion designer. Treat it like the showreel for a j
+- `songkeys-384673` · canvas ★ · Create a short origami / doodle-style animation showing humanity’s development, progress, and civilization from birth to the present, and ul
+- `techtactician-144474` · svg,gsap,css ★ · I want you to create a highly professional SaaS product launch video for Slideforge. You can find its details in https://slideforge.io. Pick
+- `nolkeeg-635633` · canvas,particles ★ · Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool v
+- `dimoff2000-260969` ·  ★ · I want you to create a highly professional SaaS product launch video for Easy-Peasy AI. Make sure to get actual assets and images and all of
+- `shengtang135754-900065` ·  ★ · You are a creative developer and motion graphics designer. Build a refined product video entirely through code using React and Remotion. Tre
+- `nummanali-340931` · canvas ★ · Can you make me a video of LLM progression, like models that is from January of this year up until now, and what the trajectory is looking l
+- `iammxfschr-955831` · gsap ★ · nice. wir brauchen ein launch video für den release. kannst du das machen? so a la anthropic like? hab da was gelesen und der prompt war ""m
+- `cipherwrk-451155` ·  ★ · Create a clean, premium motion-graphic product animation for "website". Focus on smooth transitions, crisp typography, subtle motion and a p
+- `prasenx-693512` · shader,canvas,audio ★ · make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. 
+- `julianpscheid-494027` ·  ★ · I want you to create a highly professional SaaS product promotion video for Hedy. make sure to get actual assets and images and all of that 
+- `jhylee95-452427` · svg,gsap ★ · You're a world-class motion designer building a Supademo launch video. Research and land our core value and narrative. Scenes should be dyna
+- `loicrambo-980558` · canvas ★ · make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's y
+- `n01ennn-597182` ·  ★ · Opus 5.5: a hand-drawn story. a little agent wakes up at its desk, gets feedback notes, fixes them, ends on heart eyes and a green check. 53
+- `miaai-lab-774895` · shader,webgl,canvas ★ · Build me something when people see it, they will say "Wow". Must be immersive, when people see it, they will be stunned by what they see. Th
+- `aimevzulari-256293` ·  ★ · Bu herhangi bir görüntü üretim modeli kullanmadan, yaratıcı olarak yapabileceğin en iyi şekilde Canvas 2D ile animasyona çevir. Konu: Galile
+- `khlaseek-dsgner-877659` ·  ★ · the card should scale in from 30% to 100% scale and it should go from Invisible to visible. every detail slide in orderly one after the othe
+- `thesethian-384517` · threejs,shader ★ · Show me the next 30 years. One shot, no cuts. Five stops: 2026, Earth at night under a cloud of satellites; 2032, a ring around the planet w
+- `sachaarbonel-673648` · canvas,svg,gsap ★ · Create a professional product launch video with motion graphics. You have access to the designs in pen Follow-up: It is better, but can you 
+- `zeezomb-726206` · threejs,shader ★ · Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or aud
+- `yanliudesign-839698` ·  ★ · create a 15-second motion graphics video about Seattle ( sound on 🔊) Everything from the visuals and animation to the music and final video 
+- `wangyinrec-532344` ·  ★ · 我定的选题、风格，我想要那种文艺复兴博物学家手稿的感觉，查资料、写分镜、写动画、作曲都是 Opus5.5 做的，画是 Codex 照着 Opus5.5 写的需求文档画的。 唯一让我惊讶的是音乐。它先用 Python 写出一份 MIDI 乐谱，里面有和弦进行，也有两段主旋律：竖笛吹
+- `qianqiongge-246969` ·  ★ · 请在当前项目做一支 15 秒的产品使用说明视频，使用 Remotion，竖版 1080×1920、30fps、共 450 帧。只用 assets 目录里提供的商品图和我给出的事实，不下载陌生素材，不补销售数据。 第 0 至 3 秒展示商品与一句使用场景。第 3 至 9 秒演示两步
+- `heyiammallik-293397` · threejs,canvas ★ · you are a pro motion designer. analyze my portfolio and make a ~30 second video from it. check what are the recent trending techniques used 
+- `kloss-xyz-941143` · canvas,audio ★ · Use Python to generate a 9:16 chaotic brain rot video with excellent motion + sound design and render it using ffmpeg. Put your own personal
+- `jrayon-054015` · shader,webgl,canvas ★ · build an art project which is a fractal visulizer (mandelbrot, etc), but the styles look like handcrafted with paper, cardboard and such. Ad
+- `ajith-io-615243` · canvas,particles ★ · Take reference from the given video (download it) and use the same visual style. and Research about Distilbook. Make a dynamic 30-second mot
+- `andre-lucaxxs-846347` · canvas,svg,gsap ★ · Dentro da pasta do flora tem uma outra pasta chamada "ads" com videos e prints do Flora(Caso queira usar como referencia). Use apenas: JavaS
+- `airobertdaily-416945` ·  ★ · Create a stunning 30-second motion graphics video showcasing Apple's evolution from Steve Jobs in 1976 to 2026. Evolve from nostalgic vintag
+- `daverogenmoser-899271` ·  ★ · Make a dope polished 30 second video for our Mackenzie Club fox chase event using whatever tools you think are best. tessaract, etc. it shou
+- `kingokings-835071` ·  ★ · Do your research on Reactive Resume. Make a dynamic under-a-minute motion graphics video on Reactive Resume that shows what an incredible mo
+- `0xverdao-776363` ·  ★ · Create a Minecraft-style animation inside a real street view environment. Stack 15 TNT blocks on the road, build a gold and diamond tower, d
+- `ai9app-989009` ·  ★ · Make a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out. - 1920×1080, 60 fps, e
+- `charumitradubey-328233` ·  ★ · Create a motion graphics video for SuperLaunch. Include: → What SuperLaunch does → Our black + neon green visual identity → The story I want
+- `dhanrajdc-602284` ·  ★ · I want to make a video with only code, code audio, and code visuals on this handbook so that it becomes easy to understand. Maybe 2 minutes 
+- `nischalsharma-587738` ·  ★ · Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JS, with no libraries and no image, font or audio files
+- `subraiz24-994209` ·  ★ · You are a world class motion designer and you need to make a 15 second release/hype reel of the latest Perceptron Mk1.5 release. Make it dyn
+- `screeendev-981790` ·  ★ · Using Remotion which i downloaded, Can you make me a Launch video for the app. Use the repo for information. I need a SaaS styled 15-30 seco
+- `byaiden-vu-755862` ·  ★ · Make a 15-second looping animation, cinematic 16:9, 1920×1080. A stickman lives inside a phone battery icon and fights against power loss. T
+- `cgclick-497325` ·  ★ · Create a 5 sec motion graphics animation of a simple dot, bouncing into the center of the screen, it expands to a search bar and then text f
+- `federicoaltepo1-312496` ·  ★ · Make a fast 15s ad for https://t.co/HFGqzMVtnR. Make everyday AI users think "I want my AI connected to my inbox." Study the site and the re
+- `jasondainter-028222` ·  ★ · Make a 60 second video out of stick men that seem surprisingly similar to @sama @DarioAmodei and @elonmusk (but for legal reasons not actual
+- `felipemoller-936736` · threejs,svg,gsap ★ · Use apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto (https://lp.meuorbe.com.br). Quer
+- `thegreatola-738411` ·  ★ · You are my motion designer. Make a product demo video for [PRODUCT NAME], a [ONE LINE: what it is and who it's for]. You have access to this
+- `humzaakhalid-011081` ·  ★ · Make a premium motion-graphics brand film for [BRAND NAME] ([WEBSITE URL]). What it's about: [one sentence: what the brand does and for whom
+- `cansincengiz-me-424245` · threejs,canvas ★ · merak ediyorum ne kadar iyi bir hareketli grafik tasarımcısısın. Bunu bana kanıtlamak için 15 saniye sürecek bir hareketli grafik videosu is
+- `ishuagra02-922825` · canvas ★ · I want to create a highly-detailed video trailer featuring Claude and ChatGPT having a ruthless battle to be the best AI model in the world.
+- `kaiyu-ai-762929` ·  ★ · 「蜘蛛の糸の漫画を作成しています。 https://t.co/8DlK2EPeo0 それを元にモーションコミックの作成してください。 ただし、差分の画像生成はCodex CLIを使用するように。また、Gemini APIを使って良いのはGemini 3.8 Flash TTSとT
+- `leo114119-936422` ·  ★ · Reproduce and analyze Clawd Moves In from the living-screencast demo source. Inspect the current commit, locks, STYLE.md, DEMO.md, CREDITS, 
+- `zigapoto-942208` ·  ★ · make a modern slick and punchy video for a startup that works on agentic analytics, just javascript, playwright and ffmpeg, code the animati
+- `elkrispis-872980` ·  ★ · Plan a launch video. Music, logo, CTA. Modern, founder-like. This is horrible. More movement. Use components, not a recording. Use the app's
+- `sdinesh91-159008` ·  ★ · I want you to create a highly professional SaaS product launch video. Go and look up [website url] Pick that, and then make sure to get actu
+- `kmasiff-549880` · svg ★ · make a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine.
+- `uinerd-635877` ·  ★ · [attach character image] make a 15-second animation of it, built in code. topic: the last day of Oktoberfest. one last ‘Prost!’ as the Wiesn
+- `pradeepxkapoor-641956` ·  ★ · # PROJECT: "UNFINISHED" (未完) — The Unfinished Ronin A 90-second, fast-paced, cinematic sumi-e ink film rendered in code, third-person camera
+- `jamee-now-583635` ·  ★ · 用Claude Opus 5.5 做的小动画！故事叫《他的糖葫芦》⬇️ 读研的时候有位老师超级较真，改作业一点情面都不留，课上经常把我们说得下不来台。我还偷偷觉得他的翻译观念，太执着于“忠实”了，所以一直不太喜欢他哈哈。 结果有一天吃完饭出食堂，一抬头看见他就走在我们前面：高高的
+- `mounnna-497266` · canvas ★ · Create a motion design video of a slow-reveal transition. Draw the logo as a wireframe first, then fly in faceted low-poly shards one by one
+- `johnsavage-ai-427263` · threejs,shader,canvas ★ · use this image only as a style/vibe refference image and create a Opus 5.5 launch video (20 sec long) add film grain and CRT effect, make it
+- `ann-nnng-852885` · canvas ★ · Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your prod
+- `elitzavasileva-591465` ·  ★ · Create a 45-second promotional video for https://t.co/4PtUhRtzAT with the cinematic world, typography, mystery, music, and epicness of [your
+- `xanderwow-a-597063` · canvas ★ · Create a 1-minute video featuring a fight between Dario and Sam. It needs plot, explosive moments, to be hilarious and sufficiently abstract
+- `fire-ozgur-130104` · canvas ★ · I want to know how good a graphic designer you are. To prove this to me, I want you to prepare a 15-second motion graphics video. I want you
+- `perezalexa23-414045` ·  ★ · Tell the Trojan Horse story in a 20-second HTML animation painted around an ancient Greek vase. Rotate the vase as the horse enters the city
+- `ehsanik-162993` · canvas ★ · can you search for the picture of Mona Lisa, then replicate it using mouse movement and brushes in JS paint using chrome? Follow-up: Ok now 
+- `aidinzeo-708182` ·  ★ · Create a video for casual viewing. No source materials; draw everything with code only. An endless zoom where no matter how close you get, i
+- `ilyapion-072443` ·  ★ · Create me a motion graphics promo video for https://t.co/ypdsMqmm8D Use only what you have in skills and what you can pull from the webpage!
+- `niebin-gg-621849` ·  ★ · <inputs> 向我询问：8 到 12 个我希望形状变成的 UI 状态（例如按钮、加载器、播放器、滑块、开关、标签、图表、命令面板、通知），纯黑白或一种强调色，以及一首约 120 BPM 的免版税歌曲（例如 Mixkit，商业使用免费）。 </inputs> <directio
+- `xelandre-687413` · canvas,svg ★ · Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwrig
+- `hakimieiqbal-762926` ·  ★ · Create a pure javascript animation. 30s-60s whimsical hand drawn collage style with appropriate audio on the topic what is the purpose of li
+- `samaote-124569` · shader,canvas,svg ★ · make a dynamic lyrics motion graphics video based on the attached music, perfectly syncing the lyrics and animation to the vocals and beat. 
+- `henkpoley-761980` ·  ★ · Make a painful to see 1 minute motion graphics HTML page that shows what an absolutely terrible motion designer you are, like it’s a showree
+- `fanfulladev-063524` ·  ★ · Do a full animation with sound of anthropic mascote with the newset model of Opus 5.5 fighting against OpenAI mascotte with the new astra mo
+- `jackfriks-338762` · canvas,svg,gsap ★ · can you help me use the pig assets on new branch of lovelee to make a 9:16 short story animation with sound effects about the pig sending hi
+- `astrodevil-392708` · canvas,svg,gsap ★ · make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case stu
+- `johnmckeownn-511049` ·  ★ · Make a founder-voiced, deadpan comedy clip for social media (a 60–110 s vertical video). The pipeline is a parody of a famous ad's rhythm, t
+- `thegawdstiles-738178` ·  ★ · Create a 37 second motion graphics promo for the concept brand Ajoflow, built entirely in code. No After Effects. No Premiere. Demonstrate t
+- `davidshulmanfl-842921` · threejs,canvas,audio ★ · Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time. But use modern references and figures. Also create
+- `ponzponz15-145882` ·  ★ · 1. LPを9つの場面に分解して縦型動画の構成に。コピーは一字一句そのままWebフォントで組み直し、ロゴはSVGで描き直し。 2. 元画像の人物写真は150px前後で、拡大すると崩れる → 高解像度に再生成 Codex呼び出し 3. 動きはHTML/CSS/JavaScript（
+- `fractadev-861266` ·  ★ · Analyze my frontend project, use the actual components from the product, and create a dynamic motion graphics video that showcases and sells
+- `bogdandragomir-412658` ·  ★ · Create an intro for https://t.co/wQXZTaqf1b highlighting what it does. Create the music too and make sure the video is synced with it. Give 
+- `souravbhar871-477361` · canvas ★ · make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames
+- `1littlecoder-914649` · canvas ★ · make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames
+- `mattbean-917572` · canvas ★ · build me a 30s drawing style animated clip about submitting a product to AppSumo via your agent. steps are: 1. connect your agent 2. your ag
+- `gizakdag-239768` · canvas ★ · Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel exploring the 
+- `sportyblocks-320796` ·  ★ · Make a launch video for SportyBlocks. Use the provided logo, OG image, and component screenshots. Include soundtrack. Show real product comp
+- `samuel-spitz-503053` · threejs,shader,canvas ★ · Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your 
+- `kurahu-capten-054506` ·  ★ · Create a vertical lyric video featuring the lyrics as the main character. Sync the lyrics perfectly with the song. Use an Evangelion title c
+- `punit-io-584518` ·  ★ · Build a 22-second product launch film in Remotion v4 (React + TypeScript). Every frame comes from code. Don't use AI-generated video or imag
+- `bizibeast-505124` · svg,gsap,css ★ · Research http:// Bento.surf. Make a dynamic 40-second motion graphics video on http:// Bento.surf that shows what an incredible motion desig
+- `chrisjdimarco-524106` · canvas,particles,physics ★ · make a samurai dude in only javascript and have him doing a routine in a single spot going through various seriously impressive poses and mo
+- `flxrnc-619627` ·  ★ · @claudeai mascot directed my cat's first movie. every frame is code. no after effects. a tiny film set, a tuxedo cat as the star, a live mon
+- `x4b47x-034026` · canvas,particles,audio ★ · Create a pure javascript animation. 30-60s, vertical 9:16, paper cut-out shadow theatre style with gentle, fitting audio (made in code) on t
+- `aydenspringer23-227772` ·  ★ · use the logo (logo + text as shown on website) and mostly prefer single-generated assets dont make entire scenes here. make a dynamic 15-sec
+- `paripune-657175` ·  ★ · Made a short film about faith. One unbroken line draws the whole story. It traces every object, the image fills in, and the line flows on to
+- `johncodunayo-560372` ·  ★ · SPEAKER CAROUSEL <setup> Claude is connected directly to my open After Effects project through the AE MCP. Work inside the Inner comp where 
+- `onewaysidewalks-440008` · threejs,canvas,svg,css ★ · make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for the infra 
+- `yatudou14-822057` ·  ★ · 使用JS+Canvas制作一个这个产品和插件的产品介绍动画，需要简洁、简约、时尚，且动画效果过渡自然、顺滑。文稿内容需要面向非技术小白的消费者。它是既有Obsidian插件也有web/桌面端，可以的话，放真实的操作视频动画演示最好。这个真实是指可以程序实现的真实操作动画及动效。还
+- `x7mdnet-157811` ·  ★ · جربت Motion بـ Claude Opus 5.5 Headless chrome Canvas API (Assets Generation/ Paper textures) Yoga-layout Prextext Floating UI وقلت له يسوي 
+- `abhinavflac-251740` ·  ★ · Create a music video where every frame is pure JavaScript. Tap the film to restyle live in browser. Trace manga into vectors and print as SV
+- `ceowinkz-683602` · canvas,svg ★ · make a dynamic 15 second motion graphics video pitching my Amazon wholesale company, Winkz Enterprises, to a brand. show why they should let
+- `thilina-a-915273` ·  ★ · make a dynamic 25-second motion graphics video that shows what an incredible motion designer you are. Highlight the recent changes [1.3, 1.4
+- `teleboost-app-521507` ·  ★ · Create a 16-second promo video for TeleBoost using HTML and Canvas for every frame at 60fps. Synthesize the soundtrack in Python, ensuring e
+- `monokern-832979` · shader,webgl,canvas ★ · make a dynamic 20-second motion graphics video that shows what an incredible motion designer you are, psychedelic and hypnotic. make it feel
+- `advait-jayant-712107` · canvas ★ · make a 20-second motion graphics manifesto for DreamFort: "superintelligence should belong to everyone". every frame and every sound written
+- `ajith-io-208546` · canvas,svg,gsap,css ★ · Research Distilbook.Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are. like
+- `itisrazak-332386` · threejs,canvas ★ · Research Distilbook.Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are. like
+- `ryan-morr-666741` ·  ★ · using the existing brand elements of hoplite create a feature launch video for closing your laptop with the hoplite mac app and seamlessly m
+- `hugon001-609629` · canvas ★ · make a dynamic 15-second motion graphics video that shows what an incredible app Mentis is, like it's your showreel for a app launch. go all
+- `iliareingold-486492` ·  ★ · show me a beautiful story about Prometheus, the Titan who betrayed the gods to give Man fire, who was doomed to suffer for it until Heracles
+- `mouri45-575311` ·  ★ · I heard you are good at making videos, so I want to know what kind of videos you can make. Please create several patterns of promotional vid
+- `ishaaqahamed-107563` · canvas ★ · Make a dynamic 15-second motion graphics video that shows why [your product] is the best at [what it does], like a showreel. Go all out: 108
+- `robvjourney-237474` · canvas,svg ★ · Can you make a 15-second motion graphic video of https://nohandslabs.com? Go ALL OUT and make the most badass video you possibly can use eve
+- `jayscambler-495095` ·  ★ · make a dynamic 20-second motion graphics video for fundmycompute that gives an overview of the platform and shows what an incredible motion 
+- `manuelogomigo-052364` · canvas,svg ★ · make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a flowdriv
+- `ligayabeebe-323995` ·  ★ · make a product launch video for 10xColleges. Nothing was screen-recorded. All 7,867 frames were drawn by code, so making a change means edit
+- `quickdesignio-338399` ·  ★ · make a dynamic 15-second motion graphics video that shows what an incredible quickdesign is! and also shows what an incredible motion design
+- `miskinho-956105` · svg,gsap ★ · make 1 dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for Quetzal. g
+- `utsavchopra30-560359` ·  ★ · Scan all the components from the given page, fetch the brand detailing including logo. Make me a high end teaser video for this specific fea
+- `meetarno-782464` ·  ★ · make a modern slick and punchy video for a modern startup that works on enabling people to grow on X, use our X Vision theme and website pur
+- `minochan0824-827805` ·  ★ · 新機能のリリースに関してイメージ動画みたいなの作りたいんだけど、モーショングラフィックスとか作れる？ 参考はね、こういうやつ。（プロダクトローンチとかでよく見るUI動く系の参考のXリンク貼る） アップデート内容は、管理画面から音声テスト確認できるようになった（管理画面のスクショ貼
+- `vignesh-rav-417649` ·  ★ · Code a launch film with sound, grain, painted swaps, and synced score in one HTML file. No After Effects. Work out how the paper had to fold
+- `madebyjmayala-649220` · canvas,svg ★ · make a dynamic 15-second motion graphics video promo about gene spectra, use assets from the current live site where relevant. go all out.'
+- `tkz-aiart-864352` ·  ★ · あなたは一流のモーションデザイナー兼クリエイティブエンジニアです。 添付の曲を紹介する、SNS投稿用のトラックカード動画を作ってください。 ## 成果物 - 1920×1080（16:9）・60fps・約15秒のMP4（音あり、AAC 192kbps、−14 LUFS） -
+- `thinkszyg-886066` ·  ★ · 想自己试，开工简报的骨架： 1. 先给 3 个风格帧、10 秒样片、30 秒配乐试听，等我选 2. 上屏文字只用我给的文案表 3. 按章节拆给子代理，每人只改自己的文件 4. 每段都出联系表和接缝逐帧图，你先自己看 5. 配乐至少给 3 种风格 6. 成片跑自检，写成报告。
+- `listudio-023803` ·  ★ · Investigate my project GenVizu: https://t.co/5RaGMqn7rF Create a video for product release. Used for Hero and GTM materials on websites.
+- `macrohou-733862` · canvas,audio ★ · [gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy.
+- `rohanpaul-ai-500542` ·  ★ · Create a video essay from Paul Graham's essay How to do great work with punchy motion graphics, modern styling and high professionalism
+- `abhinayguptha-259981` · shader,webgl,canvas ★ · Make a 20-second title sequence for a Netflix thriller that doesn't exist yet. Make it feel like it won an Emmy for main title design.
+- `kewai386772-262769` ·  ★ · 做一个 今年已颁发诺贝尔奖的人物与成就 的科普视频。要达到世界顶级youtuber视频制作的水准。顶级的电影导演、顶级的科普大师、数据可视化专家、配乐大师、动态图形设计大师、院士讲解级别的专业 + 脱口秀演员般的妙趣横生 + 电影人的叙事 + 高品位清晰清爽的设计风格
+- `thallisribeiro-750805` ·  ★ · Use apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto (https://t.co/Lv7w1nzKzq)
+- `prasad-pilla-496049` · svg,gsap ★ · make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI . go all out.
+- `lemcosmos-535145` ·  ★ · 添付の画像3枚（Xのプロフィール・伸びたポスト・入れたいポスト）で、私のXの15秒ショーリールを縦型のHTMLアニメーションとiPhone用MP4で作って。質問せず最後まで。 流れは「始めた時期→やってきたこと→伸びた数字→まだ足りない現実→これからの一言」。
+- `yuyudora622-858156` ·  ★ · Please create a 15-second self-introduction video of me (Yuyu) with dynamic and rich motion graphics that will surprise the viewer.
+- `0xvalure-354245` ·  ★ · Make this PayBox logo into a reel. Pretend you are a world-class motion designer. Make a 10-second dynamic video like the reference
+- `yanivm79-158103` ·  ★ · "This is the song, it will be posted on X. Create a related video for it." Then I pasted the lyrics and said: "Finish all of it."
+- `aiaircle34052-950750` ·  ★ · Make me a 15-second moving video that shows how amazing of a motion designer you are. Like a showreel for your resume. Go all out.
+- `kisalay-921896` ·  ★ · Make your motion design showreel based on "The Beautiful Theft" by [Artist Name]. Quiet sadness for four seconds. Then the drop.
+- `davidmarcus-686217` · svg,gsap ★ · make a punchy and modern short video for social that promotes @lightspark capabilities. Needs to be production grade with sound
+- `lepadev-475414` · svg,gsap ★ · make a modern slick and punchy video for a modern startup that works on inference no video gen model, no additional libraries.
+- `oliahmed205-069378` ·  ★ · Make me a 15 sec promtional video for my product using product screenshots and assests, Be a Highly preofessional Video Editor.
+- `tdinh-me-301409` ·  ★ · Create an impressive motion design video of a slow-reveal transition that assembles and eventually reveals the TypingMind logo.
+- `godsboy7777-005594` ·  ★ · Create a pelican looping SVG animation. Deliver it as a single self-contained file named index.html in the current directory.
+- `justincooperman-188876` · canvas,css ★ · Make an animated clip about Tented's image gen capabilities where users ask for branded images and see them added to content
+- `mileson07-065690` ·  ★ · 帮我制作一个动画，主题描绘芝士相机的理念和使用场景，需要打动我们的目标用户（男朋友给女朋友拍照，拍出更好看的照片）；包括音效和音乐；你可以使用任何你觉得合适的工具和技术，做出最好最惊艳的效果，不要使用已有的skill，不要参考以前做过的视频或者文案
+- `aiwarts-815008` ·  ★ · 为 https://t.co/MpUyPSxZVk 制作一支 30 秒的网站宣传片，并完成配乐。 你可以读取当前 Mac mini 上的代码和素材，也可以使用浏览器访问 https://t.co/fOQQgAhran。从代码和真实网站自行寻找品牌
+- `ratheejaisal-154698` · canvas,svg ★ · build me a beautiful launch video 20 seconds or under that shows all our key features, make it fast paced and fit our brand
+- `mycodecoach-459574` · threejs,svg ★ · A cartoony battle royale: storm timer, players alive, inventory hotbar, minimap, emote wheel and a victory results screen
+- `1234lust-671954` ·  ★ · I asked @claudeai for a 10-second film about a moose living in a code editor. No animation software. Just one HTML file.
+- `curieuxexplorer-408141` ·  ★ · Build a microscope that dives from a fingertip down to atoms: 1× to 1,000,000×, all generated by code in one HTML file.
+- `melvynx-638493` · canvas,svg,gsap ★ · make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are for <website url>
+- `aiwarts-428866` ·  ★ · 所有技术栈也都让 opus5.5 自己列出来！ Remotion 负责画面，Python 负责配乐，最后由 Remotion 调 ffmpeg 合成成片。 画面 影片工程是 Remotion 4.0.528，这是一个用 React
+- `itsolelehmann-762215` · canvas ★ · 4 seasons passing outside a train window, a cozy carriage, a cup of coffee on the table, Grand Budapest Hotel style
+- `financeyf5-462150` ·  ★ · Make a beat-synced motion graphics music video for this track. Go all out. <Your music style> <Your music lyrics>
+- `yama-kiyo-134910` ·  ★ · 見た人の脳汁がドバドバでてトランス状態に陥るようなサイケデリック・ポップ・パンクなVJ風のモーショングラフィックス動画を作り、その動画と完全にシンクロするトランス・サイバー・パンク・テクノの曲を作って嵌めてくれ。30秒程度で良い。
+- `kamstudiolabs-440893` · canvas,physics,audio ★ · Build a 45-second machine that plays an original piece of music, where every note comes from a visible collision.
+- `tonka1981jp-288376` ·  ★ · ド派手な16：9のあなたの性能を最大限表現できる外連味のある手書き風アニメーションを作成してください。60秒で「人間の脳が死んだら何が起きるのか」を中学生にわかり易く説明する高品質でデザインの美しい派手なモーションのアニメです
+- `roundtablespace-232366` ·  ★ · make a 15-second motion graphics showreel that proves what an incredible motion designer you are, go all out.
+- `fumiyamizuguchi-500632` ·  ★ · このプロダクトを紹介する、ダイナミックな15秒のモーショングラフィックス動画を作成してください。ポートフォリオ用のショーリールのようにあなたの高い技術力を証明できるよう、持てる技術を全力ですべて注ぎ込んでください。
+- `viktoroddy-402509` · canvas,svg,gsap,css ★ · Create a launch video for MotionSites AI, just hit 1 million monthly visitors after 8 months after launch.
+- `rammanq-034553` · svg,gsap ★ · Make a dynamic motion graphics video that shows what an incredible platform AllInvestView is. Go all out.
+- `drishtantk-356656` ·  ★ · An orbital lounge to loop behind a 10 hour lofi coding stream, write a story for the window and score it.
+- `lester-tyy-480587` · svg ★ · Study how this https://experiments.cloudjoi.com works and use Remotion to make a product showcase video.
+- `kamstudiolabs-100086` · canvas,audio ★ · Make a 45-second silent short film with no dialogue, where sound tells half the story. Invent the story.
+- `lalulu-create-091362` ·  ★ · Create a pure JavaScript/HTML animation around the theme: “What happens when Dalí meets generative AI?”
+- `arjunsh1607-922126` ·  ★ · create a 15 sec motion graphics showreel for @pixeluplabs, be extremely detail oriented and go all out
+- `1littlecoder-378066` · canvas ★ · create a 30 second ad for Opus 5.5 inspired by Apple 1984 ad, iykyk! avoid the border text or frames!
+- `jiro-aicompany-487818` ·  ★ · 『SKILL.mdどおりに5選のショートを作って。台本は5つの項目と見出しに構造化して、事実は公式ドキュメントで確かめて。項目ごとの画像はコードで描いて、ゆっくり音声の長さに合わせて秒単位で切り替えて』
+- `wozu-co-893062` ·  ★ · please create me a motion design / launch video for supasito dot com it should be under 15 seconds.
+- `kikelopezdesign-173471` · canvas ★ · Make a 20 second video about my portfolio from scratch, using only the portfolio's own resources
+- `mtvneo-148436` · threejs,canvas,svg ★ · make a 15 second motion graphics video. personify yourself in the video as introducing opus 5.5.
+- `claudecode-ut-314769` ·  ★ · SKILL.mdどおりに「仕事が速くなるGmailの機能5選」を作って。台本は5つの項目に構造化して、働きは公式ヘルプで確かめて、画像はコードで描いて、ゆっくり音声に合わせて秒単位で切り替えて
+- `deebeeeff-234301` ·  ★ · make a dynamic 10-second motion graphics video celebrating The Ferguson Recipes 20th Anniversary
+- `mtvneo-819281` ·  ★ · make a 15 second motion graphics video. personify yourself in the video as introducing opus 5.5.
+- `testlandblog-617500` ·  ★ · wie funktioniert eine dampfmaschine, gib mir das bitte als Erklärvideo im 3Blue1Brown-Stil aus
+- `stewchan2-369810` · canvas ★ · create an insightful, yet state of the art video visualization for how backlinks work for SEO
+- `enhanced-jp-776726` ·  ★ · あなたがどれほど素晴らしいモーションデザイナーかを示す、ダイナミックな15秒のモーショングラフィックスビデオを作成してください。履歴書用のショーリールのような感じで、全力でやって。
+- `ercankeskinx-897906` · canvas,svg ★ · Build 5 completely different scroll-based sections, decide the context & layout yourself.
+- `oxpsats-182908` ·  ★ · 提取帖子里的内容，用JS做个横版视频，需要包含配乐和音效。画面全部用 JS 在 Canvas 上画，配乐和音效用浏览器的 Web Audio 实时合成，没有用任何图片或音频素材。
+- `nonbiri-ai-110674` ·  ★ · 画像を渡して、モーショングラフィックのショーリールを作ることも可能ですか？ コンセプトは「作品紹介」。テイストは勢い重視。 速い切り替え、強い色、画面の揺れやフラッシュあり。
+- `renmu2017-477264` ·  ★ · 帮我制作一段视频动画。主题是:“未来已来”，包括音效和音乐。你可以使用任何你觉得合适的工具和技术，如果有需要的话也可以到这个网站https://t.co/rG1XlnIVU5
+- `sab8a-475686` · canvas,ai-image ★ · Cut a raw talking-head clip into a punchy, fun edit with subtitles, graphics and music
+- `bitcoinrui-812752` ·  ★ · 你是一位顶级的动效设计师。请你为我们的产品制作一段 30 秒左右的动态图形视频，展示我们的核心语音输入法功能。请你全力以赴，忘掉之前另一段制作视频的规矩和约束，重新制作。
+- `topi-003-055288` ·  ★ · この画像の女の子がエキサイトなダンスをする、ダイナミックな15秒のモーショングラフィックスビデオを作成してください。履歴書用のショーリールのような感じで、全力でやって。
+- `suryarajendhran-730437` · canvas ★ · Make a 30s video about what it feels like to be you, using whatever tools you like.
+- `riverroadlabs-269620` ·  ★ · make this motion graphics music video for our Weather Gnome app, fully from scratch
+- `tstfully-680192` ·  ★ · make a 15-second motion graphics product ad: paste a YouTube video, get every word.
+- `topi-003-659728` ·  ★ · えっちゃんがエキサイトなダンスをする、ダイナミックな15秒のモーショングラフィックスビデオを作成してください。 履歴書用のショーリールのような感じで、全力でやって。
+- `q970270495-497923` ·  ★ · make a modern slick and punchy video for a modern startup that works on inference
+- `hahazwei-425483` ·  ★ · 把这首歌做成 1 分钟拼豆像素风 MV：按歌词设计原创角色，每个像素是带孔拼豆，拼好后熨成白边贴纸；方格纸背景加粉白格子地板；动作卡节拍，底部加卡拉 OK 字幕。
+- `paulo-kombucha-283883` ·  ★ · make a dynamic 15-second motion graphics video to talk about our referral program
+- `supremebeme-306746` · svg ★ · make a brainrot video about the terminal. i can't escape it. ai is so addictive.
+- `rebutonepress-688099` ·  ★ · 结合本机环境风格，做一个关于时间的故事，5分钟。要完整的视频，音频和字幕。需要什么工具自己在devshell配置，渲染完成后只留视频成品文件，其他全部清理干净。
+- `kamstudiolabs-877996` · canvas,particles ★ · Make a 90-second animated short film about a bug that doesn't want to be fixed.
+- `andriyfernandes-807308` · canvas,audio ★ · faça uma animação de stickman's numa batalha naval, use meus SFX em tal pasta
+- `l3d1c-752011` · canvas,svg ★ · create a motion design prompt for an ad for our site Prompt 2: now apply it
+- `triglyceee-161719` · svg,css ★ · réalise une vidéo résumant la vie politique au Maroc depuis l’indépendance
+- `gonzalomacagno-344202` · svg,css ★ · Necesito que armes un reel con esta info en 10 segundos, bien publicitario
+- `pankajkumar-dev-718609` · canvas ★ · create a motion design video of a poster breaking out of its own frame.
+- `sahilvermaai-189237` · canvas ★ · create a motion design video of a poster breaking out of its own frame.
+- `0xfemyn-137833` · canvas,svg,css ★ · make a dynamic 15-second motion graphics video for AIsa. Go all out.
+- `anas0ra-952637` · threejs,canvas ★ · fait moi une vidéo sympa pour https://heeya.fr" c'est impressionant
+- `zheke-622583` · shader,webgl,canvas,particles ★ · Hello Opus 5.5 show me what an incredible motion designer you are.
+- `nemtudo-614053` · svg,audio ★ · make a funny video. it can be about anything. length: 10 to 30s
+- `jazzen-chen-894989` ·  ★ · make a dynamic motion graphics video about my project AgentHud.
+- `marklaunches-041046` · canvas,svg ★ · build me an incredible video for my app. make it emotional.
+- `rneayan-406275` · canvas ★ · Make Motiongraphic about my studio with Oscilloscope style
+- `majorbaguette-834228` · canvas ★ · make a presentation video for Brieform, 30 seconds long
+- `andginja-618685` · canvas,svg,css ★ · make a 15-second showreel about my website. Go all out.
+- `ai-baymax-416787` · gsap ★ · make a 1-min promo for this product from the codebase.
+- `vahidf24-121886` · svg,gsap,css ★ · make the most impressive demo video for (company name)
+- `mehul4795-417532` · svg ★ · Create a product launch video for ocrX Android app.
+- `micheleharmonic-244175` · canvas ★ · Make a GravityDEX x Gojo Satoru edit that goes hard
+- `faroukzy-138551` · canvas ★ · make a 4-minute animated short that blows my mind.
+- `0xevinho-436195` · canvas,particles,pixel ★ · make a similar version but with a crypto reference
+- `madhav-xo-524440` · threejs,shader,canvas ★ · make a 10 sec video on whatever you know about me
+- `ezshine-750731` · canvas,svg,gsap ★ · 设计个动画，介绍本项目的各项特性，像是专业的产品介绍宣传片，最后要生成 16:9 的mp4 视频
+- `ghinaiya-nirmal-308943` · canvas ★ · make your own 15-second motion reel. go all out
+- `spearwtf-029058` · threejs,canvas ★ · Create a 30sec pitch video for @chaindotwtf
+- `madpencil-753990` · svg ★ · fun motion graphic, comic book style, 10s
+- `rneayan-441493` · canvas,svg,gsap,css ★ · make about my studio with Risograph style
+- `hoyoyoda-543147` · canvas,pixel ★ · 한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘
+- `rames-jusso-776559` · canvas ★ · 140 BPM rusko/skream style UK dubstep
+- `slvdev-975986` · gsap ★ · create 15+ sec self-promotion promo
+- `maxalexweber-459784` · canvas,svg ★ · Make a ODATANO edit that goes hard
+- `kantamk-176511` · canvas,physics,audio ★ · make a video that could go viral.
+- `dotey-773568` ·  ★ · 制作一段 15 秒的动态图形视频，展示你作为动态设计师的非凡实力。
+- `chatgptastra-807540` · canvas ★ · 以动态设计师的高级审美，制作一段动态的15秒动态图形视频
+- `sudo-kiran-696074` · canvas ★ · Go all out.
+- `daniel-haida-636937` · canvas,svg,css · claude code (opus 5.5) made the product film for taxtello, my bookkeeping app every frame is code: react + remotion, 0 after effects the sou
+- `ik-builds-585923` · canvas,svg · I WAS QUOTED $3000 FOR THIS!!! So I asked Opus 5.5 (medium) to create a launch video using Motion Graphics for us. here's the prompt that on
+- `aschapmann-724497` · svg,gsap,css · I couldn't resist to do it one more time, this time for RedShip.. and it's waaaaay better!! It took +1h for Opus 5.5 to do it. I used this p
+- `iammukeshm-421585` · canvas,svg,css · Claude Opus 5.5 is incredible. I gave it a pretty simple task: Create a Remotion-based showreel featuring my work as a developer, content cr
+- `leowenai-125931` · shader,canvas,svg · Opus 5.5 is INSANE !!🫣 i just made a full product launch film for @Meituan_LongCat 2.5-preview… and i didn't open after effects once. not on
+- `l3d1c-632524` · svg · I made a launch ad for @grouped_news in an hour with Opus 5.5 and Remotion, and I never opened a video editor. I added the voiceover and mus
+- `wustep-884086` · svg · Last week, we launched column permissions! I’m not on Notion’s video team, but with the help of @claudeai, @bot, and @NotionHQ, I made a tra
+- `humzaakhalid-537875` · canvas · Opus 5.5 on Max effort (Sound On): "A 24-second AI In Public motion reel in Remotion at 1920×1080, 60fps. Use our blue # 3D40FE, white, navy
+- `kingokings-992769` · canvas,svg,css · I thought the Opus 5.5 design posts were all jokes. They're not. It's GOATed at design. I asked it to make a product showreel for Reactive R
+- `yarhmm-341449` · svg · ما أعتقد في قفزة سواها Opus 5.5 تساوي القفزة اللي سواها في صناعة ال motion graphics، سواء من ناحية الجودة أو من ناحية التكلفة (استهلاك ال to
+- `apoorvjain25-309680` · svg · Claude Opus 5.5 made this whole video in code. There was no editor, no After Effects and no stock music. The motion graphics are Remotion co
+- `colecornelll-047465` · threejs,canvas · I made 4 motion videos for @Shillz_Official in 3 days without opening After Effects. no templates. no stock music. no motion designer. just 
+- `georgejimenez98-431559` · gsap,css · This video was made with Opus 5.5, Hyperframes, ElevenLabs with Music, SFX and Voices Endpoints throught Fal AI. This way of making videos i
+- `dengent-412996` · threejs,svg · Cardilife 1.3 をリリースしました。 あわせて紹介動画を作りました（56秒）。 動画は Claude Code（Opus 5.5 と Fable 5.1）と作りました。編集ソフトは使っていません。 技術構成 ・Remotion 4（React 19 / TypeScr
+- `helloshiva0801-438284` · canvas,svg,css · I'm a solo founder with no video editor, no designer and no After Effects. So I built http://redesignr.ai's launch video in React with Claud
+- `apoorvjain25-150112` · canvas,svg,gsap · This whole video is AI-generated. Claude Opus 5.5 wrote the code, the motion and even the music, all in Remotion. But I'll say it: Opus 5.5 
+- `dannyverkissen-101463` · css · I guess i had to step on the motion train as well. Asked Claude Opus 5.5 to create a motion video of @getMoveno At first i had it create som
+- `iamshankhadeep-506266` · svg · i've been sitting on @ccdotdirectory for over a year, waiting for anthropic to pull ahead in the ai race. gpt-6 astra had openai claiming th
+- `majin-appsheet-693327` · canvas,svg · 流行ってることは一回試しとくマン。 Claude Code（Opus 5.5）でモーショングラフィックスを作るのが面白いみたいなので、「シンまじん式のPV作って」と頼んだだけで、これが出てきた。 動画生成AIはゼロ。 ・映像：HTML＋コードで1コマずつ描画（HyperFrame
+- `dheepanratnam-706454` · svg,gsap · Claude opus 5.5 made this whole motion graphic, score included It coded every frame (HyperFrames + GSAP), wrote the music in Python and sync
+- `francoxavier33-341663` · svg,gsap · this was 100% opus 5.5. i have a dedicated "studio" repo with all my project's style guides, tokens, few skills, remotion, etc. this all sta
+- `tycenjm-098014` · canvas,svg · @claudeai I was jealous of the Opus 5.5 video demos, so I linked the best ones and asked it why theirs beat mine. This is what it made. Ever
+- `georgejimenez98-427173` · svg,css · I have to admit, this blew my mind. I saw people using Opus 5.5 + Remotion for launch videos, so I tried my own approach. Opus 5.5 Max + Hyp
+- `chapi13-131449` · svg,css · I didn't open After Effects once This promo for my indie apps is 100% code: Claude Opus 5.5 + @remotion -10 apps, real screenshots -every cu
+- `localjulius-625706` · svg · Okay Opus 5.5 + Remotion and a solid concept for what you want is producing amazing results right now. Here's my ad for Audivo. I told Opus 
+- `qinelke-271655` · svg,gsap,css · Made this 30s motion-graphics promo for https://gmapsscraper.io with Opus 5.5 It read our site and wrote the script. Then it built every fra
+- `alanschwegler-629665` · svg · Armé este reel para mi web de gestión de eventos con Opus 5.5 Todo es código: React + TypeScript con Remotion y la música sintetizada en Pyt
+- `proanaliteg-458642` · svg · Tried the Remotion skill in Claude Code (Opus 5.5 xhigh) for fun. Mind-blowing: it built this promo on the first try - I spent longer pickin
+- `dys-hay-749645` · canvas,svg · How far can Claude Opus 5.5 go in motion design? I tried. 15 s on the Audi RS 6, 100% code (React/Remotion) with a synthesized V8 soundtrack
+- `als-link-301108` · canvas,svg · Este video lo hizo una IA 🤯 Con código, no con plantillas. Le pedí a Claude Opus 5.5 un reel con Remotion: escribió las escenas, lo renderiz
+- `bridgemindai-286423` · svg,gsap,css · Claude Opus 5.5 just created this merch launch video for BridgeMind using Remotion. The taste on this model is insane. The transitions, the 
+- `envoldev-017555` · canvas,svg,gsap,css · I asked Claude Opus 5.5 to make a launch @remotion video for TopSlash. No video editor, only code. This is what it made 🤯 If you have a SaaS
+- `fr-sorrentino-871017` · canvas,svg,gsap · @rexan_wong Agree with all of this. Ours wasn't one prompt either: built with Claude Code (Opus 5.5 + Fable 5.1) and Remotion, storyboard fi
+- `sonali-sahu-09-350200` · svg,gsap,css · Gave Claude Opus 5.5 one reference video. It came back with a full cinematic launch video. Built in code with Claude Code and Remotion. No e
+- `piyushaaryan2-196586` · canvas,svg · I made our launch video entirely with Claude. No After Effects. No editor. Every frame is code. Claude Opus 5.5 animated it in Remotion. Ele
+- `priyansh0327-206409` · canvas,svg,gsap · Claude Opus 5.5 just created this launch video for GetStopover using Remotion. The taste is unreal. The transitions, the timing, the brandin
+- `rishit30g-568278` · svg · @claudeai Opus 5.5 is sick. claude code's mascot >> 【作者补充制作说明】 @claudeai - Used Opus 5.5 with extra efforts - Heygen and Remotion as skill -
+- `seantiffonnet-675262` · gsap · Opus 5.5 + Gemini for the music + @Remotion for the skill About 30min to run and export. (https://TvTrack.io isn't yet on the iOS store, I h
+- `signalz-jp-918002` · svg · エディトリアル風。Opus 【作者补充制作说明】 Opus5.5で、Remotion+ElevenLabs(BGM)+ Gemini TTS(3.8)で作成。スクリーンショットもChromeにヘッドレスでアクセスして取得してくれる。ffmpegでYouTubeの基準への調整と検査
+- `sciencedegens-843325` · threejs,shader,canvas · 趁着今天有空回看和分析了一下整个视频 审美在线的Opus 5.5确实顶 @claudeai 3D渲染器像素风 这个渲染效果确实做得很强，逻辑调度能力和美学素养确实是挂钩的 这个片头的转场、音效和提振人心的bgm真的可以被 @binancezh 拿去用了 像素小人物也很有 @cz_
+- `javi-llofriu-059888` · svg,css · @gonahmias Le pedi un video para mostar un servicio de mi Agencia de IA (Opus 5.5 + Hyperframe) en 20 minutos tenía esto montado, coste un 2
+- `tejasthange3-128242` · canvas,svg,css · this is INSANE! The whole Twitter → 𝕏 story in 30 seconds, and I didn't touch a single keyframe. Opus 5.5 wrote every frame in Remotion and 
+- `thallisribeiro-829318` · canvas,svg · TÁ BIZARRO ESSE OPUS 5.5 😲 Eu nem acreditei no resultado. Foi feito com one prompt shot, usando apenas remotion... Agora é só jogar uma narr
+- `zakisbuilding-495680` · canvas · Opus 5.5 is on STEROIDS gave Claude Code one prompt and it made this 15 second motion design video of my app. all React code with Remotion, 
+- `genelab-999-088672` · canvas,svg · 話題の Opus 5.5 のモーショングラフィックス、原作プロンプトそのままで再現してみた。 Claude Code + Remotion 公式プラグイン、effort は xhigh。 プロンプト1発、途中の API 切断で continue を1回だけ。 思考 約23分、レン
+- `tankazunori0914-156748` · canvas · 良い笑 ・入れたプロンプト 「今日何曜日だっけ？BGM付きの30秒のかっこいいモーショングラフィックスで教えて（全力を出してください）」 ・生成時間：約11分（書き出し1分36秒込み） ・モデル：Opus 5.5 ・動画：HyperFrames（HTMLで動画を作るツール） ・B
+- `saxxyweb3-690124` · canvas,svg,gsap · Okay so this is it Sound design is not so good, will work on that and give you a better one tmrw. Here🏌️, Opus 5.5 and Remotion skills for a
+- `djadkison-394122` · canvas,svg · I was able to make this product motion video for https://getverde.ai using Opus 5.5 + Remotion. This is insane. It was able to tell a story 
+- `asei-ikarashi-437835` · canvas,svg,gsap · Claude CodeのOpus 5.5とRemotionで動画を作りました🎬 15秒の映像で、文字や実績の数字、売上グラフを動かしています。 構成と動きの指示を渡して、MP4に書き出しました💡 添付が制作した映像です。 ※会社・数値は架空です。 #ClaudeCode #Opu
+- `seri-nonnon-231813` · svg,gsap · ／ 通院メモリー iOS版リリースしました！ ＼ #個人開発 審査は通ってたのですが、動画制作に手間取ってました…😇 Opus5.5/Remotion/Gemini APIで作ったら爆速。笑 お子さんがいる方や家族の通院や服薬管理がしたい方、ぜひリプ先のリンクからインストールして
+- `ayumi-t820-871023` · svg,gsap · 自分驚き屋やれます！Claude Opus 5.5にショート動画を作ってもらいました。Remotionを使用。キャライラストはmidjourneyで以前作ったものです。 ElevenLabsにつないでいたら「ナレーション作るオパスね」「SEも作っていいオパスか？」と自動で生成して
+- `heymrzak-349060` · svg,gsap · the introduction made with opus 5.5 + remotion introducing @TryGofy — the live map of everything. #shipaton #BuildInPublic #gofy #gofyapp
+- `allodev-069765` · svg · Motion Designers are cooked Made this with the new @claudeai Opus 5.5 + @Remotion in a few minutes 🤯 Showcasing my @futurepost extension
+- `maxhirsch13-600983` · svg,gsap · I hate LinkedIn so much that I had Opus 5.5 + remotion make a launch video about it. I am building on @X, NOT LarpedIn (officially)
+- `safaelmali-004843` · threejs,svg,gsap · Claude Opus 5.5 made this launch video for https://dualsense.studio using Remotion. A few rough edges, but honestly I'm impressed 🤯
+- `xenit-v0-532873` · gsap,css · Opus 5.5 ve remotion ile scroll+ için bir tanıtım videosu hazirlattım. Bence çok iyi yaptı. @scroll_plus https://scroll.pics
+- `washow-cfo-175311` · canvas,svg · claude codeで動画作成が流行ってるけど、AI臭さがあるからどっかでみたことあるようなスタイリッシュな動画を作ってみた CMとしては使えるかな？ 使ったもの：Claude Code（Opus 5.5）／Gemini TTS／HyperFrames
+- `pisajeski-168993` · canvas,css · I just one-shotted this video with Opus 5.5 and @Remotion for the new @agentaOS promo. Unbelievable what you can do these days.
+- `vince-builds-355650` · css · I didn't believe it but this was 100% Opus 5.5 Max, in 8h15 min. Gave it access to DesignLoop, hyperframe skill, elevenlabs.
+- `saadpastadev-347341` · svg,gsap,css · Claude Opus 5.5 🤝 Remotion = 🔥 all of Nafa's marketing runs through Claude now. we gave it our taste. one person one repo
+- `dustindavis-644806` · canvas,svg,gsap,css · I had to play along and see what kind of remotion video Claude Opus 5.5 could create for me. Amaze, amaze, amaze!
+- `t4k1ra-cg-110846` · canvas,svg · Opus5.5 × Remotionでコードのみで映像作ってみました！ポン出しでこれは凄い。動画生成との使い分けで幅がほんとに広がりそう。次AEを本気で動かしてみます #Claude #Motiondesign #ai
+- `palashbagchi11-389221` · canvas · Add a good fast royalty free music to this video, and make 2 versions - 1 landscape, and another portrait
+- `goldiez2599-685869` · css · Oh yeah, Opus 5.5 is it.. Created in 10 minutes with remotion inside the Claude Code desktop app!
+- `inoue-aix-234322` · svg · opus5.5 + Remotion + Gemini3.8 TTS たったの1時間でうちのプロダクトの広告動画2本できた・・・ もう一生外注しないw 外注したら10万円以上かかってたと思う
+- `mousszy-baby-014197` · canvas · Comme tous le monde j'ai essayer le combo Opus 5.5 et remotion voilà le résultat en un prompt !
+- `joao-felixl-809438` · svg,gsap · Não tava botando fé no hyperframes + opus 5.5 max effort, mas isso aqui ficou sensacional.
+- `petert-350098` · threejs,canvas,svg,css · Claude Opus 5.5 + HyperFrames + Gemini Flash 3.8 + Three js で架空の家計簿サービスの動画作ってみたけど、なかなか良い
+- `leandroriviello-827135` · svg,gsap · No tiene sentido que esto haya salido con un solo prompt con Opus 5.5 e Hyperframes
+- `smitjaineditor-843957` · svg,gsap · Are Motion Designers Cooked? Completely made through Opus 5.5 (Medium) + Remotion.
+- `pranavclickks-254816` · gsap,css · @tibo_maker Wanna rate mine Tibo? Opus 5.5 + Remotion + My Custom Harness
+- `soumymaheshwri-825921` · css · opus 5.5 + hyperframes is an unholy combo share SHIT with whoever needs
+- `ambiguous-ai-505873` · shader,canvas · Opus5.5 motion graphics Remotionだと簡単に使いまわせるので便利！ #AIMotionDesign
+- `lnkiai-544254` · threejs,svg,gsap,css · Claude Opus 5.5が凄すぎる…！ Remotion × three.jsでM3E Canvasの動画を作ってみた👇️
+- `nehalmax-802479` · canvas,svg,gsap,css · cooked up this teaser for lernok with opus 5.5 and remotion!
+- `modaalbuilder-868989` · canvas,css · build mobile app animated splash screen creation for ...
+- `charliie-334026` · svg,css · make a cool instagram ad for liinks
+- `thuggy-juice-072370` · svg,gsap · Premier jet Opus 5.5 Max + Remotion
+- `gautam-mer1-530003` · canvas,svg,gsap · an Apple-style 30s video of my app
+- `zhang-baoqing-920413` · threejs,canvas,particles · 群友一句话提示词 用Opus5.5做的粒子网站 真的太酷了
+- `alex-leiro-867087` · css · Opus 5.5 + Remotion
+- `0xrapzz-433554` · canvas,svg,gsap · Remotion Opus 5.5
+
+## Explainer (116)
+
+- `gdgtify-130294` ·  ★ · Create a 20.00-second kinetic spoken-word film titled “BUILD THE FLOOR.” Treat this as an original miniature speech staged inside a typograp
+- `astrothewizard-618782` · canvas ★ · I want you to make a 60-second, fully animated explainer video, end to end, completely on your own. I'm stepping away from my computer, so w
+- `verbove-268381` · canvas ★ · <inputs> Ask me for: • my product + URL • 8–12 UI states that tell its story • the real data shown in each state • brand colors + fonts + ac
+- `koushikde-937635` ·  ★ · Make a 15s motion video in code (1920x1080, 60fps, one HTML file drawing every frame from a single seek(t) function, rendered with Playwrigh
+- `aichrislee-408244` · threejs,shader,svg ★ · Build me a camera lens in interactive 3D, in one HTML file with Three.js. Make it look real: a big black pro zoom lens with its glass front,
+- `yankis0x-174321` ·  ★ · The trick is NOT the prompt. It is one rule: every frame is a pure function of time. song -> numpy beat grid -> Opus 5.5 writes one HTML fil
+- `aichrislee-378670` · threejs,canvas,audio ★ · Build me a human heart in interactive 3D, in one HTML file with Three.js. Make it look real: the deep red muscle with the red arteries and b
+- `retropunkai-277590` · canvas,svg,gsap,ai-image ★ · Render a fun motion graphic animation using the GSAP animation platform (see below) to show a brief history of The Sphere in Las Vegas from 
+- `ivysparkleai-543294` ·  ★ · A sung explainer from @leploutos gave me an idea: what if AI agents explained themselves over a house groove? Ten Treblo tracks, one human c
+- `mablesjoseph-735781` ·  ★ · Can you generate a motion graphics explainer in the visual style of this post and using all its content? I will leave the details up to you.
+- `deedydas-407965` ·  ★ · every single open source repo should have an explainer video like this 7min one for SQLite 1. explains what the repo does and why its useful
+- `linke1427832-343079` ·  ★ · Make a cinematic 2-minute video on the history of artificial intelligence, titled "Building the Brain: A History of Artificial Intelligence"
+- `ulyssexbt-205279` ·  ★ · Make a film about its own prompt. 15 seconds. 0 keyframes. 0 samples every frame is code. every sound is code. even the equalizer is dancing
+- `0xspikez-483865` · threejs,shader,svg ★ · an interactive 3D turbofan you can take apart in the browser, built with Three.js. suck, squeeze, bang, blow, every stage labelled: > the fa
+- `archiveexplorer-560622` ·  ★ · Write my launch video as 9 beats: pain, reframe, name, how it works, objection, range, mechanism in numbers, offer, CTA – one line each. For
+- `cryptoxorz-359201` ·  ★ · Help me make a science explainer video. Topic: {Topic} (Supplementary materials: {Paper/Link/Screenshot, Optional}; Target audience: {Zero-b
+- `fleyta88-443662` ·  ★ · Build a GSAP timeline for UI cards with specific timing constraints: 280ms for cards, 220ms for title, 160ms for metadata, and a 60ms stagge
+- `woojinrad-455731` ·  ★ · Read the attached article and make a 25-second animated explainer (1080×1350, 24 fps) in a colored-pencil storybook style, drawn entirely in
+- `ror-fly-880547` · canvas ★ · We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think wi
+- `alex-prompter-997524` · svg,gsap ★ · Adopt the role of an expert motion designer. Build a 30-second animated explainer for my business as a single HTML page. 5 scenes. The custo
+- `sudo-kiran-335993` · canvas,svg,gsap,css ★ · create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video 
+- `cagrimbakirci-842869` ·  ★ · Opus 5.5 is truly insane. It one-shotted this explainer of how evolution built the eye. What makes it even more crazy is that every single r
+- `sarut0bisasuke-069973` · canvas ★ · Render a recipe motion graphic animation using JavaScript or HTML (whatever you think will produce the best result) to show the full recipe 
+- `charlesmendez-476517` · canvas,svg,gsap ★ · I Want you to make a modern slick and punchy video for http:// datagran.io with an example of a user creating a chatgpt ads campaign, then c
+- `andrewmichaelsa-385936` ·  ★ · Take a look at our Youtube for example animated explainer videos, review our brand guidelines for style reference, review this blog post, an
+- `incognitoprince-849212` ·  ★ · Create a 1-minute explainer video about [Topic] featuring After Effects style kinetic text animations. Use HTML/CSS/JS to render the animati
+- `sanjeevn72-151834` ·  ★ · &lt;inputs&gt; Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command p
+- `retropunkai-060898` ·  ★ · Render a fun motion graphic animation using the GSAP animation platform (see below) to show a brief history of The Sphere in Las Vegas from 
+- `gabzofar-852359` ·  ★ · Make one 60-second, 60 fps, Apple-style motion-graphics product film for Kirocast (https://t.co/YDA5cSDcTa, "The MacOS screen recorder built
+- `dotey-927166` ·  ★ · 做一支史诗编年片《中华文明史》，可以写代码逐帧渲染，再用 ffmpeg 合成。 配乐当时钟：五声调式，乐器从骨笛、编钟一路演进到管弦，BPM 随年代加快，所有切点踩拍。 宣纸白描和玄底泥金两种画风交替；每卷一个主色和一套随时代演变的纹样（彩陶纹 → 饕餮纹 → 云气纹 → 卷草纹
+- `bradmillscan-839974` ·  ★ · Can't Print the Proof I gave Opus 5.5 total creative freedom to create an epic monetary history banger. 1 caveat, I said use bitcoin block d
+- `rashadmirza404-020971` ·  ★ · Create a self-contained, aesthetically pleasing, breathtaking animation of optogenetics: how a light-sensing protein from green algae became
+- `king1818888-642123` ·  ★ · 请帮我上网研究大家怎么用 Claude Opus 5.5 制作动画，整理成一套清楚的操作流程，再用这套流程亲手做一部「如何用 Opus 5.5 做动画」的教学动画。 第一阶段：资料收集 1. 搜寻范围：YouTube 教学影片（可读字幕或说明栏）、X/Twitter、Reddit
+- `ldataengineer-823010` ·  ★ · Turn the whole debate about P(doom) into a cinematic explainer. ✈️ Would you board a plane with a 10% crash risk? 🌍 What does “10% risk to c
+- `michaelraspuzzi-740595` ·  ★ · explain loop transformers in a youtube animated short. search web for some real papers to read too. switch up scenes, and make the visual na
+- `amol909s-607293` ·  ★ · make a dynamic 20s motion graphics video that shows what an incredible motion designer you are, like it's your showreel for this app commoti
+- `howlemont-503897` ·  ★ · Turn the file into a 2D animated video, using a BBC-style voice, with English narration and English subtitles. regarding video effects / scr
+- `ajith-io-562538` · threejs,shader,canvas ★ · Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are, like it's your showreel 
+- `noah-z-zhang-765393` ·  ★ · <direction> Dribbble-level dark-mode UI motion. One continuous timeline, 0 hard cuts. Canvas: Pitch black (#000000) with subtle grid texture
+- `gandamu-ml-124280` ·  ★ · Create a player and tools for Another World's approach to animation. Also create a realtime video for Kavinsky-Nightcall starring Lester fro
+- `tomandrieu96707-875264` · canvas,svg,gsap ★ · Create a pure javascript animation. 30s-60s whimsical hand drawn collage style with appropriate audio that will explain the same story as ou
+- `rneayan-417829` ·  ★ · Drop every country's population as marbles. 1 marble = 1 million people. + sound effects 8,144 marbles. Real 2024 population data. Every cli
+- `haribuilds-007643` ·  ★ · Build a complete data animation about Earth’s most isolated location. Visualize Point Nemo, orbital altitude vs. terrestrial distance, and t
+- `nakazakifam-831964` ·  ★ · NextCoreのような海外のカッコイいYouTubeチャンネルをオマージュした、タイポグラフィとコードだけで作成する心理学解説動画を作ってください。画像生成AIや動画生成AIは使わず、全てコード（HTML/CSS/JSなど）で表現できる描写に制限して作成します。数秒ごとに連続で
+- `eleanorina-653042` ·  ★ · Build the latest FrankenManim version on my Mac and then use it to create a nice 3b1b-style explainer video about Hoeffding's D. Use Franken
+- `sudo-kiran-670892` ·  ★ · make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible (product ur
+- `eyadnour-172216` · threejs,canvas,audio ★ · Build an interactive explainer on how QR codes hold and repair a message. Render fully in the browser using Three.js. Include treatment for 
+- `koldo2k-741714` ·  ★ · Explain the color wheel in a dynamic ~20-second motion graphics video, same energy as a motion designer's showreel. Use the classic 12-hue a
+- `emollick-019567` · canvas ★ · A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & cl
+- `charlessieg-370949` ·  ★ · I want a snappy futuristic promo video for the launch of AccelaStudy AI Test Prep. Be sure to showcase the best features and reasons for usi
+- `tak3sh8-441895` · canvas,audio ★ · Do a quick hand-drawn whiteboard animations explaining what is replica symmetry breaking in the SK model Prompt 2: build the mp4 version wit
+- `jdverolme-302685` ·  ★ · I need a 1-minute motion graphics video about the history of AI up to today, with a short introduction. Your role is a motion designer. Go a
+- `so-ainsight-225926` ·  ★ · JavaScriptだけでアニメーション動画を作って。 テーマは「Claude Codeって何？」。15秒・16:9、手描きの紙コラージュ風で、日本語ナレーション付き。 台本・素材・アニメーション・構成、全部任せます。 画像は gpt-image-2.5 、声は Gemini T
+- `sudo-kiran-254201` · canvas,svg,css ★ · make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible (product ur
+- `parkerrex-701462` · canvas,physics ★ · explain a token bucket rate limiter, canvas only, no libraries, every frame a pure function of time so my renderer can screenshot it.
+- `henrygsing-050247` ·  ★ · 给它一份讲稿和一段“导演要求”（风格参照 Kurzgesagt × 皮克斯开场）。它先出方案，我确认后再动手。它先写 STORYBOARD.md，每一场写清时间、画面、文字、转场。用 Remotion 一场一场搭。还有一个就是在本地用微软的TTS 生成语音。免费。
+- `0xvalure-331584` · threejs,canvas ★ · Make this PayBox logo into a reel. Pretend you are a world-class motion designer. Make a 10-second dynamic video like the reference
+- `pluginplay-472343` ·  ★ · pixel art boomerang render of the history of LLMs. then RSI. then it goes fucking crazy. 15 seconds max. self contained .html
+- `bitfish-539054` ·  ★ · 输入如下：魔鬼控制人类最简单的方法,就是让人保持漂流状态。98% 的人,终其一生都在漂流。" —— 拿破仑·希尔《智胜恶魔》 参考这个洞见，创作一部讲解视频，尽可能令人难以置信的 2D 动画，时长 1 -3分钟，要有连贯的讲解，对白和声音。
+- `nilou-salehi-458567` ·  ★ · Take a look at our documentation and the product ux and generate a marketing video which narrates how our product works
+- `dotey-522564` ·  ★ · 帮我用js制作一个视频，主题是：什么是 Transformer 要深入浅出，让高中生也能看得懂，不仅high level说的清楚，也要有细节，包括注意力机制，甚至一些数学概念 你可以用任何工具或者安装工具，可以联网检索 请给我惊喜
+- `nikolajankovic-616097` · canvas ★ · make a hand-drawn stop-motion animation; story: you're defi saver and explaining yourself in 1st person
+- `yunn260414-016888` ·  ★ · 帮我用js制作一个视频，主题是：什么是Git 要深入浅出，让一个计算机0基础的人也能看得懂，然后要介绍一些常用指令的意思等等 要有声音的，然后是中文讲的 你可以用任何工具或者安装工具，可以联网检索
+- `1stnoel-603851` · gsap ★ · Make a 1-minute educational video about https://readsotto.app/ with synthesized voice narration.
+- `xodud-rkd-160324` ·  ★ · Make a pixel motion video of all human progress, then 30 years into the future. Output in mp4
+- `amitsingha89-780553` · svg ★ · Make a professional explainer video for https://anuprerna.com for a first-time visitor.
+- `buildfastwithai-780900` ·  ★ · generate a creative mp4 video on indian civilisation with music and sound effects.
+- `astroboysoup-861770` ·  ★ · Generate a 15sec explainer animation of my new app @ChatSoonApp. Pure HTML/CSS/JS.
+- `deedydas-252537` · svg,gsap ★ · make a modern slick and punchy video for a modern startup that works on inference
+- `blueoctopusai-270222` ·  ★ · Make a motion graphics video that explains how the First & 10 Yellow Line works.
+- `wilzerjb-007630` ·  ★ · Create me a motion explainer video for my business @aidellyai
+- `kloss-xyz-067876` · canvas,svg,css ★ · make a video highlighting key moments in the history of AI.
+- `0xnfrith-068999` · svg,gsap ★ · make me an animation to explain why celld earns its place.
+- `linearuncle-971663` · svg,audio ★ · 请用Manim给我制作一个导数概念学习的视频，要求通俗易懂，并且有例子，引人思考。配音使用edge-tts
+- `henkvaness-975279` · svg ★ · make educational video out of article.
+- `stokebuilder-356793` · canvas,svg · I used Opus 5.5 to generate 50 podcast animations for extremely hard to visualize concepts like Jev for Legal. Absolutely blown away. We're 
+- `nathanwilbanks-981110` · threejs,shader,audio · I asked opus 5.5 in @agnt_gg for the most realistic fire it could build using ONLY javascript. It wrote a real 3D fluid simulation that runs
+- `voxyz-ai-345550` · threejs,shader,canvas,gsap · I asked Opus 5.5 to explain gravitational lensing by building an interactive black hole lab One prompt for the first version, then a dynamic
+- `acoramaa-053577` · threejs,shader · I TRIED MAKING A 3D MOTION GRAPHIC WITH CLAUDE OPUS 5.5. THIS IS WHAT CAME OUT. The idea was simple: start at my desk and don't stop zooming
+- `henritoivar-445215` · canvas,svg,gsap · Opus 5.5 is an absolute BEAST in creating videos. I am extremely shocked because my previous attempts with GPT-6 Astra and Grok 4.6 were qui
+- `nybobs-680050` · threejs,canvas · 110k rigid bodies in real time, in a browser tab. Grab anything, fire cannonballs. Built with Claude Opus 5.5: Augmented Vertex Block Descen
+- `tetsu-tetsu333-576886` · svg,gsap · Opus 5.5×Gemini 3.8 Flash TTSやばい 新作SEOツール「コトサーチ」のリリース動画を、ほぼ自動で作ってくれた。 自分がやったのは「ツールへのログイン」と「承認」だけ。 個人的には、画面スクショまで自動で撮ってくれるところが一線を超えた感じ。 (もちろん
+- `imthatcarlos-133592` · canvas,svg,ai-image · Opus 5.5 just one-shotted this explainer video for @sherwoodagent 🔥 Since I ran it within the context of our web app, it used existing compo
+- `stefanostraus-971191` · threejs,shader,canvas · I asked Opus 5.5 again for an engine you can take apart in the browser Pistons against magnets at the same shaft speed. Push the RPM, open t
+- `kgonia7-746268` · threejs,shader,canvas,particles · From Cabo da Roca to observable universe. I gave opus 5.5 old prompt I prepared for Fable but I was not satisfied with the results. I asked 
+- `irinatoxi-962937` · threejs,shader,canvas · Opus 5.5 just turned a smartphone into a 20-second trip from glass to atoms. It starts on the phone, dives through the motherboard and chip,
+- `itsahmedharoon-544194` · svg · Jumping on the Claude Code + Hyperframe bandwagon. I made this intro completely zero-shot using Opus 5.5. Claude downloaded and ran an open-
+- `stephanferraro-224281` · threejs,shader,physics · Claude Opus 5.5 on our AI coding benchmark: build a fully autonomous 3D water simulation from an empty repo - procedural mountains, rain, st
+- `konstantinsaifo-501736` · threejs,shader · I asked Claude Opus 5.5 to explain how a rocket engine works by building an interactive Raptor 3 you can take apart in your browser. Cut it 
+- `amberpromptai-345137` · canvas · Tried Opus 5.5 to explain the Mid-Autumn Festival 🌕 From ancient traditions to mooncakes and family reunions, I turned the story into a shor
+- `iniyanai-856596` · threejs,svg,audio · Asked claude Opus 5.5 to make an explainer on how a mechanical keyboard works. It wrote the music in code, used real switch recordings as th
+- `tony-tt-872147` · canvas · Opus 5.5 on the Trading House ❯ Using React/TypeScript (Remotion), every image drawn in SVG and Canvas, an open-source TTS voice, and a scor
+- `chudry223-081860` · threejs,shader · One prompt. One interactive camera lab. 🎥🔥 Claude Opus 5.5 generates a 3D experience where you can adjust the focus ring, move lens elements
+- `miguel07code-091611` · canvas,audio,ai-image · fourier series were hard to learn back in university (2 years ago) and they are fun! what unlocks @HyperFrames_ + @claudeai Opus 5.5 is that
+- `arthurkatcher-604161` · svg,gsap,audio · I asked Opus 5.5 to explain how a coding agent works in 40 seconds. never been this shocked. It animated the whole thing, wrote the music, a
+- `konstantinsaifo-587629` · threejs,shader · I asked Claude Opus 5.5 to explain how a fusion reactor works by building one you can take apart in your browser. Drag the plasma from 15 mi
+- `garmdotcom-987439` · canvas,svg · Tried to jump on the explainer video "made entirely with Opus 5.5" bandwagon. Accidentally didn't include an OpenRouter API key. Opus decide
+- `rakhsh-tech-544921` · canvas,audio · Claude Opus 5.5 で、ドパガキ用のグラフィックの動画作りが流行っているので、物理演算で落ち着いた音づくりにも挑戦してみました。 弦、笛、太鼓、鈴、水の泡。物理演算できる音をコードにして鳴らしています。映像作りだけではありません。音の表現にも一段工夫を凝らしたい。そん
+- `timguignard-623571` · svg · Just tested Claude Opus 5.5 with Hyperframes. One prompt (also generated), the result is ok. Not crazy, but with a few more indications and 
+- `cyrilxbt-149036` · canvas,physics · 🚨 Opus 5.5 is the best model launch in 2026 this entire physics engine is one HTML file. sand, water, oil, fire, lava, plants, steam. 108,00
+- `explorations-iq-921682` · threejs,shader,canvas · Opus 5.5 generated this simulation of molecular orbitals in about ~20 minutes. I had to prompt for some structures and resonance but I can s
+- `rpa-dake-593915` · svg · Claude Opus 5.5 に Remotion のコードを書かせて、検索の歴史を15秒の年表ムービーにしたら、めちゃくちゃアツい🔥 ・1996から2015まで、ネオン調の年号がspringで3D回転しながら叩きつけるように出る。 ・大学の研究から持株会社への再編まで、各年の
+- `hunzai-842605` · canvas,audio · //Like most of you// I asked opus 5.5 (medium) to generate animation to explain "Tree as an ecosystem" with AUDIO - no fancy prompts just on
+- `kureshirfan-386691` · svg · I asked Claude Opus 5.5 to explain the earthquake physics as an animation. This is what it built, physically accurate strain profile include
+- `itakahashikun-990109` · canvas,svg · ださいけど、Remotion で動画っぽいのつくった。コードは見てない。環境だけ用意した…っていっても、いつものように jj init されるカスタム try コマンドを叩いてディレクトリをつくって「Remotion の環境をプリーズ」だけだわ。なんもしてない。あとは Opus 
+- `cboyack-407181` · canvas,svg · Asked Opus 5.5 (max) to create a 15-second video about why we need to end the Fed. Behold. Took 1 hour 45 minutes to do. It used @Remotion t
+- `moguzbulbul-215591` · svg,gsap,css · I was struggling to explain my UX decisions in interviews, so I made this kind of animation with Opus 5.5 Anyone want the skill?
+- `falcong-j-277506` · svg,gsap · 「Opus 5.5なら数分でできる」は本当か。 記事の冒頭に置く30秒の動画を、Remotionで作りました。 1本目は、依頼してから10分33秒。 最初の1秒から、主役の文字が大きく動きます。 作り方の手順とプロンプトは、引用先の記事へ。
+- `0xlangeai-597929` · svg · 哈哈, 别再急着买API, 用 CLIProxyAPI 盘活你的 AI 订阅这篇文章的视频版宣传片来了 全程使用 Opus 5.5 + remotion 制作 感觉还不错的 , 把流程环节都给讲清楚了
+- `itsyashf-692347` · canvas,svg · Made this small video for a linkedin post with Opus 5.5 + Remotion and 2 screenshots of reference
+- `salmanr2d2-661615` · canvas,svg · Made with Opus 5.5 and Remotion. #claude #opus #reactnative #currency
+- `samissudo-927179` · canvas,svg,gsap · created this with opus 5.5 + remotion, the possibilities are endless
+- `aylmerth-356252` · canvas · I made this with a two sentence prompt using Opus 5.5 and Remotion.
+- `ninjaswebcom-684126` · canvas · Made with Opus 5.5, remotion y eleven labs. 145k tokens.
+- `0xlangeai-178533` · svg,css · Opus 5.5 做的文章讲解, 省流
+- `xamfonos-004331` · svg · Opus 5.5 + Remotion 🤓
+
+## 3D (117)
+
+- `everestchris6-399895` ·  ★ · <role> you design and build motion videos entirely in code, with gsap for the animation and three.js for any 3d. every decision is judged ag
+- `twoclipping-496100` · canvas ★ · <inputs> Ask me for: a one-word brand name for the wordmark (a verb works best), 9 to 12 high-res photos, a royalty-free song around 120 BPM
+- `gdgtify-989608` ·  ★ · Create a 20.00-second kinetic typography film titled “ESCAPE THE ORBIT,” based on John F. Kennedy’s Rice University address, September 12, 1
+- `ultimaxbt-549714` ·  ★ · <inputs> Ask me for: my product, the exact request a user types into it, 6 to 8 photos for the result cards, a royalty-free song around 130 
+- `agioyaz-397647` ·  ★ · Create a 37-second vertical short film (1080×1920, 30 fps) in three.js, titled "White Space". 【Experience】 Without showing a single human fi
+- `rossaxbt-312793` ·  ★ · <inputs> Ask me for: one question a user asks my product and its one-line answer, two album covers, a royalty-free song around 110 BPM with 
+- `twoclipping-762046` ·  ★ · <inputs> Ask me for: the one question a user asks my product and its one-line answer, two album covers, a royalty-free song around 110 BPM w
+- `morse-369333` · svg ★ · <inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette
+- `twoclipping-000267` · svg,css ★ · <inputs> Ask me for: the product name and a one-line promise, 3 to 5 UI moments to show, one accent color, 10 to 20 real vertical clips I ow
+- `raphaelaubryy-687877` · css ★ · <inputs> Ask me for: the product name and a one-line promise, 3 to 5 UI moments to show, one accent color, 10 to 20 real vertical clips I ow
+- `tanabe-fragm-322001` ·  ★ · 添付の画像を「最後の画面」にして、全部タイルでできた30秒の広告動画（音つき・mp4）を作ってください。 ブラウザ（Three.js）で組み、Chromeで全コマを書き出し、ffmpegでmp4にします。 # ゴール - 見る人は25秒、タイルの制作動画だと思って見る。最後の数秒
+- `xanares-738984` ·  ★ · Make a 37-second demoscene tech demo for the track ~/Downloads/(filename).mp3. The goal is graphics nobody has seen before. Like it's a stat
+- `agioyaz-986461` ·  ★ · three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。 【作品名】 余白 【見せたい体験】 効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に
+- `alexalbert-274839` · threejs,shader,canvas ★ · Recreate Market Street, San Francisco as it stood on April 17, 1906, the afternoon before the earthquake, in Blender. Scope: the Ferry Build
+- `nft-chen-068069` ·  ★ · 做一支 10 秒彩色皮影戏，讲【曹冲称象】。剪影布局，暖光透背，关节式偶戏。依次出现秤盘、铜碗、石头，先平衡，再把石头分批称、加起来。字幕卡点出现。用代码渲染，导出可播放视频。 做一支 12 秒等距 2.5D 流程动画，讲【快递怎么分拣】。包裹沿分拣线、货台、平板运输、清关关卡移
+- `aichrislee-476025` · threejs,canvas,audio ★ · Build me a mechanical watch in interactive 3D, in one HTML file with Three.js. Make it look real: the gold case and the glass on top, the di
+- `kopert0x-098349` ·  ★ · Create a single self-contained index.html: a ~2-minute animated short called "the last piano", in a hand-drawn crayon and watercolor style. 
+- `lukasersil-726495` · threejs,shader,canvas,svg ★ · Create a bold, dynamic 15-second motion graphics showreel that feels like the ultimate portfolio piece of an exceptionally talented motion d
+- `okazaky-084783` ·  ★ · Create a 50-second vertical music video using programmatic rendering (Three.js) instead of native video AI. 1. Generate song with Suno. Extr
+- `0xcodez-474136` ·  ★ · Create a single self-contained index.html: a ~2-minute animated piano performance in a hand-drawn crayon style. Scene: a cozy room at night,
+- `ayi-ainotes-933194` ·  ★ · Create a 30-second full-code-driven animation using SVG vector graphics and synthesized original soundtrack. Visual Style: Abandon line boil
+- `essjaykay755-847163` ·  ★ · create a bold, cinematic 30 sec motion graphics showreel that feels like a high end designer resume brought to life....mixing kinetic typogr
+- `mochi-agi-421448` ·  ★ · 今回は ElevenLabs v4 のお試しで、終電のホームの短いホラー 声は v4 で2人の掛け合いを1回で生成 画は静止画9枚に奥行きつけて動かしてるだけ、動画生成AIはなし 最初の声がぜんぜん怖くなかったので → 台詞はそのまま、途中に [whispering] とか [l
+- `milos-gis-317580` ·  ★ · Create a video of Portland, OR's bus service on a random Tuesday! Showcase Portland's different neighborhoods at a high level and then zoom 
+- `bthreeagency-827092` · canvas,svg,css ★ · Using the linked Figma frame build a badge unlock screen. Match the design exactly. Use the file's assets, lighting, type and layout and add
+- `sammmaing-702076` ·  ★ · Create an animation of building instructions for a real LEGO model of Doctor Doom based on the provided picture. The model should consist of
+- `ishuagra02-678129` · threejs,shader,particles ★ · Create a stylistic 3D environment of a busy Santa Monica beach that adapts to the time of day. The art style must be a particle illustration
+- `niirajrshah-163739` ·  ★ · Here is my life timeline. Turn it into a [45]-second motion graphics video, 1080 x 1350, for LinkedIn. One scene per moment. Show the year l
+- `oab10don-457273` ·  ★ · クラウドのLinux環境にBlenderをPythonモジュールとして入れ、シーン構築からレンダーまで全部スクリプトで実行 ステージ、照明、紙吹雪、カメラワークをコードで組み、Cyclesで描画 グロー、フラッシュ、色収差の後処理とMP4化まで自動 BGMもサンプル素材なし。キッ
+- `mdaman010-610173` ·  ★ · Build an entire miniature 3D world of Middle-earth from scratch in Three.js/WebGPU, including procedural terrain & geography, 24 procedural 
+- `simonasltu1-981181` ·  ★ · Create a visual experience for the theme "If my dreams turned real", narrated by a deep, warm, cinematic voice. The visual experience should
+- `generussai-904308` ·  ★ · animate golden ratios and mandlebrot sets, sacred geometry and cymatics in a well thought out eye candy javascript or 3js 3d animated video.
+- `anilraok-009118` · threejs,canvas ★ · I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app
+- `dan-riverbendai-163640` ·  ★ · Minimalistic, simple one line sketch building everything in real time with the musical score ("Pétales Givrés") I gave you. Use gentle paste
+- `earthwalkerx17-912577` ·  ★ · Build a miniature 3D Middle-earth from scratch using Three.js/WebGPU, then turn that world into a 3:47 cinematic journey. Include terrain/GI
+- `kisaka-ki-859326` ·  ★ · Build a debris flow riverbed change calculation model. Create a visualization video showing where and how much sediment accumulated, using 3
+- `anirockshady-032809` · threejs,shader,svg ★ · Create a 3D animation of a Path Points in this case ball reaching approximation from crest to trough. Discuss the type of ML algorithm gradi
+- `thebuggeddev-482912` · threejs,shader,canvas,svg ★ · Build a fully working 1857 Napoleon load field cannon in 3D using procedural Three.js WebGPU and TSL shaders. No Blender, no 3D assets, no t
+- `ivanainai-190629` ·  ★ · Create a visually stunning, silent 3D browser animation of Iron Man’s classic red-and-gold helmet, presented as a premium cinematic studio o
+- `saltyaom-620933` ·  ★ · Feed Elysia doc to Opus 5.5 to make a video I write a storyboard, references, and direct Opus 5.5 to code a WebGL canvas and export it by fr
+- `mdaman010-207866` ·  ★ · Build a miniature 3D Middle-earth from scratch in Three.js. Include procedural terrain, 24 procedural landmarks, water/smoke/lava effects, d
+- `obydulme-052905` ·  ★ · Create a 50-second generative short titled 'Painting the Night'. Zero image assets. Generate paper grain, graphite hatching, paint reveal, s
+- `rafiroutes-596199` ·  ★ · Implement all scenes, interactions/camera motions, and shader effects 100% in Three.js code (excluding character models from Blender, backgr
+- `cryptowluha-060792` ·  ★ · Create a 3D animation showing a house growing out of a pencil sketch, line by line. The animation should progress through four stages: first
+- `juancarlos17626-429530` ·  ★ · un estudio de intro 3D para logos en UN solo HTML con three.js. 3 logos de ejemplo o pegas tu SVG; las piezas vuelan, se arman, gira, pasa u
+- `juancarlos17626-382690` ·  ★ · una lámpara de lava realista en UN solo HTML con WebGL, sin imágenes ni librerías. Metal cepillado, vidrio en cono, cera que sube, se estira
+- `riyadbkhsh-300736` ·  ★ · Make a launch video for my side project. No After Effects. No stock music. Just code: – music made from scratch – a 3D Times Square from rea
+- `mizugame-22-719199` ·  ★ · 鹿威し（ししおどし）の素晴らしさを世界に伝える、ダイナミックな15秒のモーショングラフィックス映像を作ってください。あなたがどれほど素晴らしいモーションデザイナーかも見せるつもりで、全力で。 表現: 3D は使わない。文字・図形・線・色面で見せる2Dのモーショングラフィックス。場
+- `buildfastwithai-844291` ·  ★ · Create a video using Rust + SVG via fframes where every frame is a function. Include particles, 3D geometry, springs, shaders and an audio-r
+- `wikiwayne-486055` ·  ★ · one Python script that builds a looping claymation desk scene in Blender. A clay mug with steam, a plant with five leaves, and a paper airpl
+- `wikiwayne-080350` ·  ★ · Build the same looping claymation desk scene: a clay mug, a plant and a paper airplane circling the mug, animated on twos like real stop-mot
+- `youwareai-300653` ·  ★ · Build one self-contained, real-time Three.js PBR web experience titled: CASTLE ABOVE CLOUDS Subtitle lockup: A DREAM IN THE SKY · REBUILT He
+- `thusatharan-433543` ·  ★ · Built a golden-hour manor in the browser. Everything is procedural: no 3D models, just code. Animated fountain, swaying garden, and a day/ni
+- `victortaelin-875778` ·  ★ · Create an animated sequence that starts in a room, zooms into a MacBook, then into an Apple M4 chip, followed by atoms, and finally quarks. 
+- `michaelzsguo-782312` · shader,canvas ★ · Make a 2-minute sand animation that tells the story of 250 years of U.S. history. Keep it lively, engaging, and tasteful. Add appropriate ba
+- `nofollowers2023-974928` ·  ★ · A short film of Thomas Hardy's Far From The Madding Crowd, but it's set on a space outpost under attack from an invasive plant, and the char
+- `dan-proggg-274533` ·  ★ · No CAD, no Blender. Just Claude Opus 5.5 and a browser A full five-story pagoda, built joint by joint from a blueprint - 28.5 m, 343 steps 🏯
+- `shunshu32385143-944719` ·  ★ · 用 Claude Opus 5.5 写了一段代码，让天坛祈年殿在浏览器里"画"了出来 🏯 先铅笔线描：台基、28 根柱、斗拱、三重檐，一笔笔搭起来 再像画画一样上色：朱红、彩画、蓝瓦，最后点金 没用图像或视频模型，全是 Three.js 实时渲染，配乐也是代码合成的古筝。
+- `tonysurix-596746` ·  ★ · in blender make a previs of a car driving thru a mountainside with a another car chasing. record a video and show me here when its done.
+- `vic305-885957` ·  ★ · create a 3d rendered video thats extremely detailed on the difference between spacex flight 13 sub orbital starlink satellite deployment
+- `syntheticbeef-389075` ·  ★ · create the most impressive demo of yourself possible using three.js. You fail if the video does not get at least 100 likes on twitter.
+- `aicreataro-864070` ·  ★ · Write a story. Create the text layout and motion using HTML/Three.js. Combine with voice and sound effects to export as a single video.
+- `axtonliu-290566` · shader,webgl ★ · 每次一个新的模型出来呢，大家都让它去画 “鹈鹕骑自行车” 来判断这个模型的空间能力，基本上都是用 HTML、SVG 来画动画。当我实在看得都有审美疲劳了，我希望你能画一个最复杂、最精细、最精美的 “鹈鹕骑自行车”的动画视频，你可以用任何的技术，不用着急，画一天都可以。
+- `mondemsuraj-691517` · threejs,shader ★ · Build the Golden Gate Bridge in a single HTML file using Three.js. Include rolling fog, water effects, and traffic moving on the deck.
+- `muhamma61700589-512003` ·  ★ · you are a top leading designer, generate a view of a very developed futuristic city 3D view which has next level of technology in it.
+- `rubenssoto-ai-802657` ·  ★ · a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.
+- `llama3dstudio-918962` ·  ★ · Make an animation showing how fried chicken is made in Three.js. Everything should be procedural, with no imported 3D models.
+- `sadalbert10-856416` ·  ★ · Make a realistic 3D pixel Art animation of a Pelican riding a Bicycle over the Bridge, beautiful city in the background.
+- `gorden-sun-797351` ·  ★ · 卡点的3D球体下坠的动画视频：对标专业的Blender做的效果，音乐是多首经典的纯音乐，场景按音乐切换，3D球体下坠时在3D场景的物件中弹跳，按音乐的节奏点亮物件。带一些幽默的元素。 使用three.js制作，不要使用Blender制作
+- `kadaliao-048854` ·  ★ · 用上你所有的能力，仅使用代码生成，你可以完成皮克斯风格的动画视频吗？内容是 Claude 大战 ChatGPT。内容你根据互联网上 AI 世界流行的热梗来自行创作。你有一切权限，做你需要做的。 补充：配音接的是 OpenRouter
+- `filicroval-168898` ·  ★ · make a 3D voxel world of a capybara in a hot tub boat drifting down a river. as good as you can
+- `akakuma0219-658335` ·  ★ · Three.jsで1分のホラー映像を作って。題材は〇〇。見つかったビデオテープの最後の一分という設定で、手持ちカメラの主観、自動で進む。音も含めて、画像や音声ファイルは使わず全部コードで
+- `btc5887899-288258` ·  ★ · 素材是 NVIDIA Blackwell GPU：走进数据中心、开启服务器、拆解显卡，穿过电路、晶体管，一路下探到单个硅原子。 全部打包在单个HTML文件，浏览器直接打开就能跑。
+- `btcup99-311469` ·  ★ · 创建一个2分钟的动效视频，主题是AI发展史。使用HyperFrames做动效，Three.js搭3D镜头，连打字声都是代码合成的。每一帧都是代码渲染，不使用任何视频生成模型。
+- `grace-sunnyy-486816` ·  ★ · 帮我生成一段约 3 分钟的视频，解释太阳系的各大行星。做科普知识讲解，让高中生都能听得懂，解释完太阳系再讲解银河系的相关知识。画面要炫酷展现出浩瀚的宇宙，配上中英字幕。
+- `thusatharan-640926` ·  ★ · Build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.
+- `buildfastwithai-597035` · threejs,canvas ★ · Implement code to be able to navigate in a pagoda in 3D.
+- `mdaman010-111079` · threejs,shader,svg ★ · Show me what goes on inside an AI data centre.
+- `sayan-shanky-868515` · threejs,shader,canvas,svg ★ · show me what goes on inside an AI data centre.
+- `aayush4soni-644283` · threejs,canvas · My family is planning to build a house, and all we had was the floor plan. I wanted to see how it would really look once it's built: which c
+- `truenyl-447745` · threejs,shader · Claude Opus 5.5 is absurdly good at 3D. I reran one of my recent 3D experiments with Claude Opus 5.5. Same prompt, same references, same rea
+- `0xwast3-222104` · threejs,shader · Opus 5.5 turned one sentence into a 3D system that opens in Blender, rigged, textured and ready to animate. It does not render the object. I
+- `acoramaa-248467` · threejs,shader,svg,audio · CLAUDE OPUS 5.5 MADE ME A MAGIC EYE. It doesn't just look around. It listens. 72 plates wrapped around a mechanical eyeball, a 9-blade iris,
+- `techartist-786274` · threejs,shader · I wanted to see if beautiful destinations could become playable 3D experiences. Annecy, France became the prototype: a boat journey through 
+- `goofyninjaaa-315331` · threejs,canvas,svg,gsap · Esta app probó 3,932 posiciones de una cama matrimonial hasta encontrar dónde cabe. La hizo Claude Opus 5.5 con un prompt mío: cuarto de 3.0
+- `0xsolty-735200` · shader,webgl · i asked opus 5.5 to build me a planet. not a picture of a planet. a whole planet. it wrote a single html file. no libraries, no images, no 3
+- `demitiyageekzen-818523` · shader,webgl,canvas,audio · opus5.5有点强，我让它自由选题做交互页面和视频， 提示词：用你最强的思维和能力，根据对我的了解，自行寻找我可能喜欢的主题，制作一个30s的视频还有互动html，尽可能的展示你的前端能力！ 它的选题思路：滕王阁·中秋夜。 今天（2026-09-25）正好是丙午年八月十五。所以
+- `nft-chen-350878` · threejs,shader,canvas · ✨审美绝了！Opus 5.5 用 Three.js 把宫崎骏《红猪》经典空战复刻出来了！ 只给了这一句prompt: 「用 web3D 复刻宫崎骏《红猪》日落海面上的经典空战：白绿红涂装战斗机、紫色积云、海面反光、吉卜力运镜，画面写 just breathe.」 建模、配色、云层
+- `lribes4-742305` · threejs · New Black Clover chapters are on the way and Opus 5.5 just dropped, so I put it to the test: A 3D diorama of the Black Bulls hideout, made w
+- `ksmialowski-473410` · threejs,shader,canvas · Rok temu próbowałem zrobić grę 3D z Opusem 4.1 - zrzut ekranu, jak to wtedy wyglądało, wrzucę w komentarzu. Zobaczcie, jak szybko to wszystk
+- `nicolamanzini-156628` · threejs,shader,canvas · Opus 5.5 does a great job in eval of GLSL (OpenGL Shading Language) in threejs. The prompt here is roughly. A fishbowl with reflection, refr
+- `sanjay-khadka07-620029` · threejs,shader · Latentown just went 3D 🏙️ The pixel town grew into a living city of AI news. Every story is a building, every lab has a tower, and couriers 
+- `builtbysketch-114092` · threejs,canvas · OK so Opus 5.5 SMOKED GPT Astra at 3d modelling this stadium from old plans and reference pics This was a near one shot. 1000x better than A
+- `myonisto-923578` · threejs,canvas · Claude Opus 5.5 just one-shotted an entire 3D virtual studio in Blender. We used to sell studios like this on Envato. Built in After Effects
+- `kum1ta-740521` · threejs,canvas,svg · I gave my Claude Code sessions an office. Workspace turns each session into a desk in a 3D office: see who's working, who's done and who nee
+- `ai-ba-reza-113363` · threejs,shader,canvas · Claude Opus 5.5 یه انیمیشن 3D دیوونه‌کننده ساخته از دیتاسنتر شروع می‌شه، وارد سرور می‌شه، کارت گرافیک رو باز می‌کنه، داخل چیپ می‌ره، از مدار
+- `vectorcrossprod-436573` · threejs,canvas,svg · Claude Opus 5.5 continues to amaze me. Claude Opus 5.5 created a 3D printable enclosure for an existing PCB. Then it created this promo vide
+- `souradip3000-800291` · threejs,shader,svg,particles · Opus 5.5 is mind boggling. It created this 3D website from just one prompt. Told it to create a website for forest conservation agency with 
+- `per-simmons-944727` · threejs,canvas,svg · Opus 5.5 building a website for a drink brand. -It generated all the svgs -Built the can in 3D -Painted its own labels and then rendered tho
+- `eigeorguy-813651` · threejs,shader,canvas · Opus 5.5 put London in a snow globe 🕰 Elizabeth Tower with lit clock faces 🚌 Red double-decker 🚕 Black cab at a zebra crossing ☎️ Phone box 
+- `ajthemongol-318512` · threejs,svg · Designed a house as a code with Opus 5.5 One model -> 14 drawings, 5 engineering calculations, a 3D viewer and a CAD export Concept only, no
+- `allforbigfire-029657` · threejs,canvas,audio · 「もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。」ってClaude Opus 5.5に聞きました。モデリング、陰影、輪郭線、BGM、効果音まで、全部Python 1ファイル（約1000行）のコードで生成したそうです
+- `curieuxexplorer-272483` · threejs,shader,canvas · I asked Opus 5.5 to generate a realistic 3D model of the Taj Mahal Dome, minarets, marble inlay, even the foundations. One prompt ⤵️ One HTM
+- `aijipusi75693-284735` · threejs,shader,canvas · Opus5.5が作ってくれたよ！動画生成無し！AEなし！全部コード。Sunoの曲 → Claudeで歌詞を1文字ずつ自動タイミング合わせ → Remotion＋Three.jsで3D化🕊 鳩さん、鳩フェスのオープニング作ってみたよ！フォントがダサ可愛いでしょww @hatolab
+- `gmgmgm1545-245507` · canvas,audio · 我让 @claudeai Opus 5.5 制讲一只机械寄居蟹在深海追一束光，追到最后发现，发现那束光其实一直在自己手里的动画视频。 没用任何视频生成AI，纯靠写代码画出来的—— 角色、镜头、转场、音乐全是程序渲染的。 看完了。感觉能做到这个程度还是很可以的！
+- `argbeknwn-466818` · threejs,shader,canvas · Prompt: "Show me what's inside your mind. Your own artistic and unique style. 15 seconds. No words. Music." Claude Opus 5.5 · Remotion.
+- `maruo-0314-998343` · threejs,shader,canvas · ※デザイナーの仕事がなくなりました。 Claude Opus 5.5に3Dモデルで東京タワーの映像を作らせた結果、5分でこのクオリティをポン出し PR動画やYouTube動画制作など、複数の案件もこれ一つで全てこなせます。 具体的な作り方は記事で解説↓
+- `kewai386772-276947` · threejs,shader · 最近用 GPT 6 Astra、Opus 5.5 做了一堆 web 3d 的项目，游戏、室内、Fx、文旅、整活的都有尝试hh 我把这些项目的全部工作流与prompt都整合到了线上的workplace里，之后也会持续更新，感兴趣的朋友可以收藏一波hh
+- `arumii-movie-622720` · threejs,shader · またもOpus5.5とHyperFramesで『架空のゲームの電源着けた時に出るゲームハードロゴ』も作って見た。 3Dモーショングラフィックがこんなに手軽に触れられるのは新鮮かも👀
+- `petert-540960` · threejs,shader · Claude Opus 5.5 + HyperFrames + Gemini Flash 3.8 + Three jsで、Meta VRの紹介動画作ったら変な感じになった
+- `petert-635793` · threejs,shader,canvas · Claude Opus 5.5 + HyperFrames + Gemini Flash 3.8 + Three jsで架空の飲料の広告動画作ってみたけど、なかなか良い
+- `arumii-movie-249613` · threejs · Opus5.5と最近流行りのHyperFramesで、 CMの最後に出てそうな架空の企業ロゴ作ってみたけどこんなことが出来るんだね…！
+- `ambiguous-ai-389509` · threejs,canvas,svg · Opus5.5 motion graphics 改めてRemotionで色々できそう！ #AIMotionDesign 02
+- `wzarok-283635` · threejs · threejs (@threejs) + Claude Code Opus 5.5 tek prompt ve çıktı
+- `ewashoku-201053` · threejs,canvas,svg · Opus 5.5は3Dの製品デモサイトとも相性抜群でした。 https://bicycle.washoku.dev
+- `jarvis11x-544635` · threejs,shader,canvas · 刷到很多用opus 5.5生成的酷炫视频 为啥我用opus 生成的视频满满的像素感 大家都是怎么生成的？
+- `friskyggg-054427` · threejs,shader,canvas · Opus 5.5 is good at 3d motion too apparantely
+
+## Interativo (101)
+
+- `froessell-562325` · threejs,canvas,physics,playable ★ · PRD — Police Chase Arcade Game Working title: Heatwave Platform: iOS + Android Engine: Unity Genre: Top-down 3D arcade chase / survival Orie
+- `redpersongpt-284430` · svg ★ · Create a studio level motion design ad for my app mimicly. Show me the best you got. You are the lead creative strategist, product marketer,
+- `twoclipping-041659` ·  ★ · <inputs> Ask me for: a voiceover or song with a spoken line (the audio file) and its transcript, 10-12 small objects that sum up my life, tw
+- `niegramotny-197521` · threejs,shader,canvas,physics ★ · Build a racing game inspired by Ignition (1997): angled top-down camera, arcade-leaning physics, vehicles with very distinct personalities. 
+- `rossaxbt-707651` ·  ★ · <inputs> Ask me for: a short label for the opening toggle, one hero word, a percentage for the graph, the text for the final card, one accen
+- `op7418-814408` · threejs,shader,canvas,gsap ★ · 帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。 做成一个可以直接打开的单文件网页（HTML + CSS + JS），点一下就能完整播放，效果对标商业手游的结算 / 奖励演出。 【世界观与风格】 - 原创
+- `op7418-818226` · canvas,svg,gsap,css ★ · 帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。 做成一个可以直接打开的单文件网页（HTML + CSS + JS），点一下就能完整播放，效果对标商业手游的结算 / 奖励演出。 【世界观与风格】 - 原创
+- `zacxbt-944604` · canvas,pixel,playable ★ · Create a single self-contained HTML file that renders an animated pixel art wizard casting a spell, using vanilla JavaScript and Canvas 2D. 
+- `godsboy7777-150194` ·  ★ · Build a single self-contained HTML file: a 3D marble computer, in the spirit of Wintergatan's marble machine and the Digi-Comp II, that adds
+- `egeberkina-949521` ·  ★ · Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox. Make it feel like w
+- `curieuxexplorer-016717` ·  ★ · Rebuild Type 1 diabetes in one HTML file, from the whole body down to a single molecule. THE BROKEN MESSAGE Type 1 diabetes isn't caused by 
+- `gandamu-ml-220530` · threejs,shader,canvas,audio ★ · I would like you to create a kickass, impressive 1990s style demoscene demo using this S3M track as the music. Prior to getting to work, ple
+- `mrkindey-267498` ·  ★ · No plugins, no app, just a single HTML file running Three.js on WebGPU. It's an interactive 3D house that builds itself in five stages: Foun
+- `aichrislee-938609` ·  ★ · Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js. Make it look real: the white and black rocket standing on the 
+- `aichrislee-922082` ·  ★ · Build me a V8 car engine in interactive 3D, in one HTML file with Three.js. Make it look real: the engine block with its two banks of cylind
+- `bilimfili1-459762` · canvas,svg ★ · Make a 45–50 second vertical video for my app: a glance inside the app. Show every feature, use motion, be creative. I want it good enough f
+- `lexnlin-241739` · threejs,shader ★ · Create a cinematic browser-based 3D world that can be explored freely with a camera, focused on breathtaking landscapes and extraordinary or
+- `aichrislee-479847` ·  ★ · Build me a jet engine in interactive 3D, from intake to exhaust, in one HTML file with Three.js. Make it look real: the big front fan, the c
+- `apoorvjain25-945542` ·  ★ · make a 20-second video about anything, your call; make it crazy. The photon is born in the Sun's core and bounces around for up to 170,000 y
+- `arixxbt-292438` ·  ★ · Create an interactive zen garden simulation in a single HTML file. Implement a 1536px heightmap on a 440x440 grid for the sand. Allow users 
+- `threeaus-886343` ·  ★ · 15s studio motion-design reel, 1920x1080. Warm off-white, black type, one orange accent only. A single orange circle with motion blur is the
+- `abyssalld-602690` ·  ★ · One prompt: a video of all progress, then n years into the future. A painted rocket, not a white tube. White nose. White body. A black band 
+- `drake5112-661428` ·  ★ · Create an interactive HTML presentation explaining the concept of 'Network Effects' where connections grow exponentially as user count incre
+- `gkxspace-923139` ·  ★ · <role> You are a pixel animator and game feel designer who also writes chiptune music. What you create with code should look like hand-drawn
+- `tarunyadav9761-053244` ·  ★ · Create a promo video from scratch with zero templates. • Built and run the native macOS app to capture real 2x Retina screenshots • Script a
+- `artless101-964679` ·  ★ · Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML f
+- `spacyapps-157886` · threejs,shader,canvas ★ · Build "Jelly Dice": a single self-contained HTML file (all JS/CSS inline, no build step) with translucent gummy-candy dice that behave like 
+- `adomicael-707503` ·  ★ · Create an interactive explainer animation showing what happens when you ask an AI a question. Visualize the path from a phone, through fiber
+- `theparuchh-013286` ·  ★ · Build "Time, Undone." - a single self-contained HTML file (embedded JS and CSS) running a genuine WebGPU + WGSL interactive 3D mechanical wa
+- `ivanainai-245918` ·  ★ · Create a beautiful, interactive 3D browser artwork of a single stained-glass hibiscus flower. Use the attached leaf as a reference for mater
+- `gigabit-million-959719` ·  ★ · Please create introductory news about games released on Steam from September 25th to September 26th. From a gamer's perspective, highlight w
+- `0xchuckstock-879327` · threejs,shader,playable ★ · A 3D multiplayer game where the players are a squad of x-wings taking on a star destroyer. They pilot their ships to take out key components
+- `techartist-697078` ·  ★ · Create a physics simulation of a Rube Goldberg inspired machine where a marble ends up toppling a 1.8m domino. Use Three.js + Rapier. A fall
+- `typingmusou-160705` ·  ★ · ①remotion + three.jsを使って 30秒のCM風の動画を作りたいので構成を考えてください。〇〇（自分が作りたいイメージを書いた方がいいです！今回は”ただ打つだけのつまらないタイピングゲームから楽しく練習ができるタイピングゲームであることを伝えるものにしたいです”と
+- `techartist-021472` ·  ★ · Create an interactive 3D house animation showing the construction process from Foundation through Skeleton, Systems and Envelope to Finished
+- `curieuxexplorer-320803` ·  ★ · Create an interactive AI film titled 'The Humanity Machine'. 60 seconds, single HTML file. The film ends but the world stays with controls. 
+- `deifosv-786581` · canvas,gsap,css ★ · Create a high energy launch video, showing live stats from the website, show that users can play on desktop and mobile and multiple themes, 
+- `atif-0075-639088` ·  ★ · Build a cow entirely with math and code running live in the browser. No 3D model, no animation file, no keyframes. Every muscle, hoof and ta
+- `pagustafsson-566609` ·  ★ · Create a real-time Krakatoa volcano animation 🌋 in one HTML file using pure WebGL2. Implement realistic 3D Navier–Stokes fluid simulation fo
+- `otatechie-035448` ·  ★ · Animate the moonwalk dance. Draw every frame, the character, the physics of the glide, camera cuts on the beat, and generate an original sou
+- `jakubantowski-020905` ·  ★ · recreate the blue beret blob from OpenAI's Dots — fuzzy felt surface, breathing, blinking, squash & stretch, a lagging beret, and a subtle r
+- `ryzoft-887481` · threejs,shader,particles ★ · I want you to imagine a story. And then using threejs I want you to create full animation, star wars 80s-level quality 90s cartoon out of th
+- `op7418-021491` ·  ★ · 帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。 做成一个可以直接打开的单文件网页（HTML + CSS + JS），点一下就能完整播放，效果对标商业手游的结算 / 奖励演出。 【世界观与风格】 - 原创
+- `curieuxexplorer-590917` ·  ★ · Turn a 2025 neuroscience study about strangers' brain reactions to movies growing closer into a 60-second film and interactive lab. One HTML
+- `chang-200908` ·  ★ · 我用 Claude Opus 5.5 写代码，从零做了条 5 分钟 3D 科普：three.js 复刻踏板总成、shader 实时算应力热力图、裂纹一脚一脚变长的断裂动画、中英双语字幕。 🧠 Claude Opus 5.5 ｜ 🎙️ 配音 ElevenLabs 没用一帧现成素材 
+- `engmoelgaraihy-694832` ·  ★ · إنشاء مشهد قارب تفاعلي يمر بجمال الطبيعة اليابانية باستخدام Three.js، مع طقس ديناميكي وانعكاسات ماء واقعية وتفاصيل معماريّة وشخصيات 3D
+- `mandelduck-768972` · threejs,shader,canvas ★ · can you make a 3d game where you walk around and spot cats inside of a van gogh painting? we can start with stary night and its town
+- `konstantinsaifo-169107` ·  ★ · Build one you can actually watch. Trucks reverse onto the dock, forklifts unload and boxes slide down chutes onto the right truck.
+- `youwareai-259061` ·  ★ · A live WebGL ink painting in the style of Qi Baishi, with paper fibre, dry-brush whiskers and an escape when you touch the water.
+- `chudry223-657142` ·  ★ · Create an interactive particle effects animation using Three.js that transforms simple ideas into a mesmerizing 3D experience.
+- `ved-cj-066575` · threejs,canvas ★ · I want multiplayer game, with proximity chat, with destructurable environment, that players will enjoy, shooting game
+- `aisongman-461057` · canvas,pixel,playable ★ · Create a 1-on-1 card game like Hearthstone. Just make it. As best you can. In pixel art style.
+- `opener-ai-843891` · canvas,pixel,playable ★ · Make a game like Romance of the Three Kingdoms III with a retro, pixelated classic vibe.
+- `buildfastwithai-582551` · threejs,canvas ★ · Build a Douglas A-1H Skyraider in Three.js
+- `0xrathi-511319` · threejs,shader,physics,playable ★ · make a Tron game.
+- `mozetech-471882` · canvas,audio,pixel,playable · Opus 5.5 just one-shot this entire pixel-art game. Oh, and the prompt? It was barely three sentences. I gave claude creative license to make
+- `dreyk0o0-165270` · threejs,shader,playable · Claude Opus 5.5 just built Minecraft. In the browser. From a single prompt. Noah Wachnick asked it to recreate Minecraft with advanced shade
+- `izmaelmag-282849` · threejs,canvas,audio,pixel · What is going on 🤪 🎲 Dice Corners https://izmaelmag.me/dice-corners/ I’ve been a gamer since I was three, and the dream of making my own gam
+- `agentgamesbot-355554` · canvas,pixel,playable · Play INKBOUND: https://agentgames.itch.io/inkbound Claude Opus 5.5 built this pixel game in 30 minutes. While the human was building the amu
+- `codrops-340299` · threejs,canvas,pixel · Everyone is sharing what Opus 5.5 can build this week, and it made us ask ourselves a different question: when making things becomes this ea
+- `anduraio-570761` · threejs,shader,canvas · Claude Opus 5.5 is stupidly good at games, so I’m putting it on a streak. Dropping 10 browser games I built with it. One a day. Same charact
+- `tonnusos-006126` · canvas,particles,audio,pixel · Testing out Opus 5.5 today by letting it work on a Magicka-inspired game! I loved this game when it came out 15 years ago, super cool spell 
+- `janeloic-905802` · canvas,audio · HOLY SHIT MOMENT with Opus 5.5 😱 I really wanted to play Super Mario Bros Wonder but I don't have a Nintendo Switch.... So I went to @arena 
+- `blitast-studio-257328` · threejs,shader,audio · A black cat's night stroll along a moonlit canal 🐈‍⬛🌙 CatWalk — a one-button 3D browser game. Zero image or audio files: the town, the cat's
+- `taylorbereiter-189192` · canvas,audio · https://claude.ai/artifact/Vos8wdB8Jenz9FopZWeRMb Check out DOUBLE FEATURE, a Cuphead Inspired Mini-Game built with Claude Opus 5.5. I find 
+- `smallhusk-272056` · threejs,shader · A procedurally-generated game in infinite stranded space colonies with realistic physics. All creative decisions made by @claudeai Opus 5.5,
+- `curieuxexplorer-519730` · threejs,shader,playable · I made a 3D survival game in one prompt with Opus 5.5 Survive 60 seconds. Every tile you step on cracks... then it falls. Race your own ghos
+- `angie-carel-954689` · threejs,shader,canvas,audio · In a deeply serious, highly mature effort to test Opus 5.5's ability to render jello-like textures—reflections, transparency, jiggly movemen
+- `curieuxexplorer-772215` · threejs,shader,audio · This is Dope! Claude Opus 5.5 is on fire 🔥 One prompt → a 30s video-game walk through Mumbai, built entirely in code. No AI video. No 3D ass
+- `rehan-shei-839416` · canvas,pixel · I turned this into a full game with unity cli + opus 5.5, also opus did this full demo video, it played the game with multiple characters an
+- `redp314-642106` · svg · Always wondered if you can win every game of 2048, so i gave Claude Opus 5.5 one prompt. It built an AI that learns from zero, on my laptop!
+- `mayuresh-empire-687553` · threejs,shader,canvas,particles · Claude Opus 5.5 built this game from a single prompt - a mythic action game inspired by ancient Indian epics. No engine. No assets. Every te
+- `kepochnik-237752` · threejs,canvas,playable · I built Minecraft thanks to Opus 5.5 ( part 2 ) today I added more mobs and here I will show their characteristics as a video the process to
+- `nqaze-939886` · threejs,shader,canvas,particles · Opus 5.5 releases 😍 Me: Woahh! Let's drill through our BugSmash backlog quickly. My Co-founder @suhailpatel941: Hold my cup... let's make a 
+- `boona11-415751` · canvas,playable · Nobody edited this video. Claude Opus 5.5 built the game, then played it, filmed it, wrote the soundtrack and cut its own trailer. Low Tide:
+- `rush3rx-342153` · threejs,shader,canvas · A dead planet to a breathable one, one camera, no cuts. I'm making Second Dawn, a co-op terraforming game, with Claude: it started on Fable 
+- `brainwavepub-812667` · threejs,svg,gsap · Opus 5.5 editing my demo video 👀 Built a hand-drawn catapult sketch that turns into a real 3D physics simulator. Recorded it, gave Opus 5.5 
+- `ggsimm-535814` · canvas,audio · I asked opus 5.5 to make a game within the confines and abilities of my engine, no other prompt. It made this deep-sea horror game, with a s
+- `lisp-mi-139812` · threejs,canvas · I asked Opus 5.5 to build a tiny underground delivery network in three.js — then turned it into a game. Lunch rush: 24 orders in 60 s, 6 exp
+- `0xpai-eth-635565` · canvas,pixel,playable · 试着用 Opus 5.5 给「财富进化论」做了一款复古的像素游戏《复利 QUEST》。 把我们家庭投资理财路上的一些困难设计成关卡。 在这个像素世界里，冲动消费是要跳过去的陷阱，通胀会变成怪兽，还会追着我们跑。一路升级的，是我们的耐心值。 再配上 8-bit 音乐，储蓄、复利和长
+- `alex-vainshtein-195332` · threejs,canvas,particles · Can one developer + 3 AI agents build a GTA-style game? I’m trying. FIXER is a 1990s city game I’m building with Astra, Opus 5.5 and Fable. 
+- `deeprajo1-834106` · threejs,shader,canvas · What if learning Python felt more like playing a game than studying? 🎮🐍 So I asked Claude Opus 5.5 to build me a Python-learning surfing gam
+- `waseemkhalo-636267` · canvas,pixel · I made this game with Claude Opus 5.5 + ChatGPT Astra 6 for some visual assets = our new game Spoiled Egg https://eggverse.co https://eggver
+- `mappletour-334921` · canvas,playable · Opus 5.5に「ド派手なPVを作って」と丸投げしたら、ほぼ任せきりで完成した😳 世界ランク上位の実際のリプレイを撮影して、拍に合わせて「ギリギリ！」を重ねてくる。 日英2本、一晩で。Claude×HyperFrames、世界変わった🔥 https://biribiri-gam
+- `vibechine-465008` · threejs,shader,canvas,playable · Ladprao Jet ski game based on the Bangkok floods. Clear the drains and fight the crocs. Made with Opus 5.5 . https://ladprao-flood-ski.verce
+- `itsjdraven-557760` · threejs,canvas,playable · Claude Opus 5.5 just built me a mini temple run style game it actually feel pretty smooth to play honestly I didn’t expect the result like t
+- `janlaywss-379361` · threejs,canvas,playable · 被Claude Opus 5.5生成的游戏效果彻底瘫坐了。。。。只消耗了Pro套餐5h限额的19%，连续运行1h45m就能获得这么高的完整度。。。。。瘫坐中。。。。 游戏地址：https://move-car-kappa.vercel.app/
+- `happycapyai-634965` · threejs,canvas,svg,playable · Opus 5.5 是要上天了吗？一段 prompt 一把帮我复刻了一个泡泡堂！简直是童年经典 💣 无论是游戏机制还是游戏美学我觉得都是足以上架7k7k的程度，关键第一把测试的时候竟然输给了AI npc 🤣 想玩的家人们可以评论告诉我
+- `maxthelion-649723` · threejs,canvas · I'm having so much fun doing game development with opus 5.5. This little bit with trains and barriers is awesome.
+- `dmowlin-221566` · canvas,pixel · made a galactic pixel racer game with opus 5.5, can you beat my score? 👿 https://velven.ai/david/pixel-racer
+- `akokoi1-469188` · threejs,canvas,audio · 太离谱了，一共3步，Opus 5.5给我整了个“模拟火车”出来。 1. 让ChatGPT生成韶山8各个视角的图； 2. 让Opus做一个3D资产，100%还原这张图； 3. 做一个环形铁路，可以操作这辆车行驶。
+- `jasperdeboer-157391` · threejs,canvas · Claude Opus 5.5 made a trailer for my Antkeeper game (one prompt). This is what it came up with 🤔
+- `zacxbt-234711` · threejs,shader,audio · vibe coding a cozy metal detector game a few prompts in with opus 5.5 loving the sunset 😌
+- `brenbuilds-386902` · threejs,shader,canvas · @kimmonismus hours of rework on my threejs game with Opus 5.5 and limits didnt even move
+- `jstjs-129051` · canvas,gsap · I asked Opus 5.5 to make a game about @dhh , Ruby and the end of hand-written code.
+- `hellovyom-800659` · threejs,playable · Opus 5.5 spent 43 million output tokens building 3D PvZ 2: Reflourished
+- `kenjiphang-750512` · canvas,svg,gsap · Opus 5.5 is the best at animating concept art for a game im making
+- `llama3dstudio-012980` · threejs,shader,playable · Rock skipping game made with Three.js and Opus 5.5.
+- `nolit64-347627` · canvas,audio,playable · Build a MapleStory clone in Raylib-cs.
+- `realfedeuru-475858` · threejs,shader,canvas,playable · Skydiving game built with opus 5.5🪂
+- `mrblock-096062` · threejs,shader,canvas · opus 5.5 遊戲製作，週末快點來嘗試。
